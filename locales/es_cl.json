@@ -850,7 +850,7 @@
   "filled_map.village_taiga": "Mapa de aldea de la taiga",
   "item.kleispack.silver_sword": "Espada de plata",
   "item.kleispack.warding_shield": "Escudo apotropaico",
-  "log.kleispack.now_loaded": "🍵 Matcha Flavoured se ha cargado, versión",
+  "log.kleispack.now_loaded": "🍵 Matcha Flavoured se ha cargado, versión ",
   "log.kleispack.version_number": "1.12.1",
   "log.kleispack.now_loaded.desc": "Cuando no sepas cómo continuar, revisa el menú de Progresos.",
   "log.kleispack.gamemode_is": "La dificultad actual es",
