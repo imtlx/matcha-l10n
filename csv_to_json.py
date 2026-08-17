@@ -47,8 +47,11 @@ def csv_to_json(csv_it: Iterable[str], output_dir: Path):
             translations[key] = value
 
         output_file = output_dir / f"{locale}.json"
+        output = json.dumps(translations, ensure_ascii=False, indent=2)
+        output = output.replace("\\\\n", "\\n")
+
         with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(translations, f, ensure_ascii=False, indent=2)
+            f.write(output)
 
         print(f"Created: {output_file}", file=sys.stderr)
 
