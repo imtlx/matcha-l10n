@@ -866,5 +866,13 @@
   "log.kleispack.gamemode_is_now": "次のゲームに設定されました",
   "item.minecraft.piglin_spawn_egg": "糖蜜",
   "item.minecraft.hoglin_spawn_egg": "グルテンミート",
-  "item.minecraft.happy_ghast_spawn_egg": "油"
+  "item.minecraft.happy_ghast_spawn_egg": "油",
+  "item.kleispack.stego_chicken_nugget": "ステゴサウルスの恐竜チキンナゲット",
+  "item.kleispack.diplo_chicken_nugget": "ディプロドクスの恐竜チキンナゲット",
+  "item.kleispack.ptero_chicken_nugget": "プテロダクティルスの恐竜チキンナゲット",
+  "item.kleispack.tricero_chicken_nugget": "トリケラトプスの恐竜チキンナゲット",
+  "item.kleispack.nopales": "ノパル",
+  "adv.kleispack.adventure.root": "歌とともに",
+  "adv.kleispack.adventure.trade_with_cartographer": "忘れ去られた噂",
+  "adv.kleispack.adventure.trade_with_cartographer.desc": "考古学者から地図を買う"
 }
