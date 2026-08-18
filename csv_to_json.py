@@ -92,6 +92,7 @@ if __name__ == "__main__":
         print(f'Fetching: {url=!r}, {params=!r}', file=sys.stderr)
 
         response = requests.get(url, params=params)
+        response.raise_for_status()
         csv_to_json(response.text.splitlines(), output_dir)
     else:
         with input_file.open("r", encoding="utf-8-sig") as f:
