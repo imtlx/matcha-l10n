@@ -1,0 +1,22 @@
+{
+  "block.minecraft.allium": "Hyacint",
+  "block.minecraft.stone": "Kalksteen",
+  "item.kleispack.amnestic": "Amnestica",
+  "item.minecraft.wheat": "Stro",
+  "item.minecraft.shulker_spawn_egg": "Deeg",
+  "item.minecraft.endermite_spawn_egg": "Benzeem",
+  "item.minecraft.enderman_spawn_egg": "Meel",
+  "item.minecraft.magma_cube_spawn_egg": "Zak Bloem",
+  "item.minecraft.wheat_seeds": "Tarwegraan",
+  "item.minecraft.beetroot_soup": "Melk",
+  "item.minecraft.beetroot": "Tomaten",
+  "item.minecraft.beetroot_seeds": "Tomatenzaden",
+  "block.minecraft.campfire": "Tondel",
+  "block.minecraft.soul_campfire": "Zielentondel",
+  "item.kleispack.beacon_kindling": "Baken-Tondel",
+  "block.minecraft.furnace": "Oven",
+  "container.inventory": "",
+  "container.crafting": "",
+  "container.cartography_table": "",
+  "container.upgrade": ""
+}
