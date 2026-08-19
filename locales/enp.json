@@ -557,5 +557,19 @@
   "item.kleispack.warding_stone": "Warding Stone",
   "item.kleispack.trade.bulk.desc": "Click on ground to unload",
   "item.kleispack.trade.bulk_andesite": "Bulk Andestone",
-  "item.kleispack.trade.bulk_andesite.desc": "x64 Andestone"
+  "item.kleispack.trade.bulk_andesite.desc": "x64 Andestone",
+  "item.kleispack.trade.bulk_diorite": "Bulk Shedstone",
+  "item.kleispack.trade.bulk_diorite.desc": "x64 Shedstone",
+  "item.kleispack.trade.bulk_granite": "Bulk Cornstone",
+  "item.kleispack.trade.bulk_granite.desc": "x64 Cornstone",
+  "item.kleispack.trade.bulk_stone": "Bulk Limestone",
+  "item.kleispack.trade.bulk_stone.desc": "x64 Limestone",
+  "item.kleispack.trade.bulk_deepslate": "Bulk Deepstone",
+  "item.kleispack.trade.bulk_deepslate.desc": "x64 Deepstone",
+  "item.kleispack.trade.bulk_glass": "Bulk Glass",
+  "item.kleispack.trade.bulk_glass.desc": "x64 Glass",
+  "item.kleispack.trade.bulk_smooth_red_sandstone": "Bulk Smooth Red Sandstone",
+  "item.kleispack.trade.bulk_smooth_red_sandstone.desc": "x64 Smooth Red Sandstone",
+  "item.kleispack.trade.bulk_smooth_sandstone": "Bulk Smooth Sandstone",
+  "item.kleispack.trade.bulk_smooth_sandstone.desc": "x64 Smooth Sandstone"
 }
