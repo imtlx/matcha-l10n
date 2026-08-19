@@ -20,13 +20,17 @@
   "item.kleispack.beacon_kindling": "İşaretli Çıra",
   "block.minecraft.furnace": "Fırın",
   "block.minecraft.smoker": "Kerpiç Ocak",
+  "container.inventory": "",
   "container.chest": "§0Sandık",
   "container.loom": "§0Dokuma Tezgahı",
+  "container.crafting": "",
   "container.furnace": "Fırın",
   "container.smoker": "Kerpiç Ocak",
   "block.minecraft.brewing_stand": "Kimya Standı",
   "container.brewing": "§0Kimya Standı",
   "item.minecraft.brewing_stand": "Kimya Standı",
+  "container.cartography_table": "",
+  "container.upgrade": "",
   "container.shulkerBox": "Çuval",
   "item.minecraft.smithing_template.netherite_upgrade.additions_slot_description": "Alaşım ekle",
   "item.minecraft.smithing_template.netherite_upgrade.applies_to": "Temel Metal Ekipmanları",
@@ -872,5 +876,9 @@
   "adv.kleispack.adventure.root": "Türküyle",
   "adv.kleispack.adventure.trade_with_cartographer": "Unutulmuş Rivayetler",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Bir arkeologdan harita al",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Bir manastırın kutsallığını kirlet"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Bir manastırın kutsallığını kirlet",
+  "block.minecraft.mud_bricks": "Kerpiç Tuğla",
+  "block.minecraft.bricks": "Tuğla Bloğu",
+  "block.minecraft.fern": "Eğrelti Otu",
+  "block.minecraft.calcite": "Kalsit"
 }
