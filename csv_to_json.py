@@ -62,7 +62,7 @@ def csv_to_json(csv_it: Iterable[str], overrides: Overrides, output_dir: Path) -
             original = row[1]
 
             value = row[column_index] if column_index < len(row) else ""
-            if original == "" and value == "": continue
+            if original != "" and value == "": continue
 
             value = escape_re.sub(lambda m: chr(int(m[1], 16)), value)
             translations[key] = value
