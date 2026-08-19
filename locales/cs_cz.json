@@ -848,9 +848,15 @@
   "log.kleispack.player_updated": "Nový hráč byl aktualizován",
   "log.kleispack.banish_evil": "Zlo bylo vykázáno z povrchu.",
   "log.kleispack.gamemode_is_now": "Hra je nyní nastavena na",
+  "item.minecraft.piglin_spawn_egg": "Melasa",
+  "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Olej",
   "item.kleispack.stego_chicken_nugget": "Kuřecí nugetka ve tvaru Stegosaura",
   "item.kleispack.diplo_chicken_nugget": "Kuřecí nugetka ve tvaru Diplodokuse",
   "item.kleispack.ptero_chicken_nugget": "Kuřecí nugetka ve tvaru Pterodaktyla",
-  "item.kleispack.tricero_chicken_nugget": "Kuřecí nugetka ve tvaru Triceratopse"
+  "item.kleispack.tricero_chicken_nugget": "Kuřecí nugetka ve tvaru Triceratopse",
+  "item.kleispack.nopales": "Nopales",
+  "adv.kleispack.adventure.root": "S písněmi",
+  "adv.kleispack.adventure.trade_with_cartographer": "Zapomenuté fámy",
+  "adv.kleispack.adventure.trade_with_cartographer.desc": "Kup mapu od archeologa"
 }
