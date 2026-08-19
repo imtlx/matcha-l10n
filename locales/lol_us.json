@@ -850,5 +850,10 @@
   "filled_map.village_plains": "MAP TOO VILLAG IN DA GRAS PLACE",
   "filled_map.village_savanna": "map two villlage in da hot tree palce",
   "filled_map.village_snowy": "cold pwdr everywhere willage mapp",
-  "filled_map.village_taiga": "Map 4 village with da BIG trees"
+  "filled_map.village_taiga": "Map 4 village with da BIG trees",
+  "item.kleispack.silver_sword": "silvr STABBY",
+  "log.kleispack.version_number": "1.12.1",
+  "log.kleispack.easy": "ez",
+  "log.kleispack.normal": "boring",
+  "log.kleispack.hard": "gamerz"
 }

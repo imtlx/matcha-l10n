@@ -867,6 +867,7 @@
   "log.kleispack.player_updated": "E neue Spieler isch updated worde",
   "log.kleispack.banish_evil": "Öpis Böses isch vo de Oberflächi verbannt worde.",
   "log.kleispack.gamemode_is_now": "Spiel isch jetzt iigstellt als",
+  "desc.kleispack.repaired_with": "Wird repariert mit:",
   "item.minecraft.piglin_spawn_egg": "Melasse",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Öl",
