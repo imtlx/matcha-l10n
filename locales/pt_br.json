@@ -868,6 +868,7 @@
   "log.kleispack.player_updated": "Um novo jogador foi atualizado",
   "log.kleispack.banish_evil": "O Mal foi exilado da Superfície",
   "log.kleispack.gamemode_is_now": "O Modo de Jogo foi colocado no",
+  "desc.kleispack.repaired_with": "Pode ser consertado com:",
   "item.minecraft.piglin_spawn_egg": "Melaço",
   "item.minecraft.hoglin_spawn_egg": "Carne de Glúten",
   "item.minecraft.happy_ghast_spawn_egg": "Óleo",
