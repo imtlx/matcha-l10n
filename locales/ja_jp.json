@@ -580,7 +580,7 @@
   "enchantment.kleispack.zephyr": "ゼファー",
   "item.kleispack.blessing": "祝福",
   "item.kleispack.blessing.demeter": "デメテルの祈り",
-  "item.kleispack.blessing.yama": "ヤマの祈り",
+  "item.kleispack.blessing.yama": "山の祈り",
   "item.kleispack.blessing.icarus": "イカロスの哀歌",
   "item.kleispack.blessing.daedalus": "ダイダロスの祈り",
   "item.kleispack.blessing.yamm": "ヤムの祈り",
@@ -708,7 +708,7 @@
   "adv.kleispack.obtain_palatinate_tool.desc": "赤銅合金を使って、銅から赤銅装備を鍛造する",
   "adv.kleispack.obtain_shakudo": "優しい合金",
   "adv.kleispack.obtain_shakudo.desc": "赤銅は銅の装備にシルクタッチと浄化の特性を授ける",
-  "adv.kleispack.catch_everything": "海にはもう魚はいない",
+  "adv.kleispack.catch_everything": "海に魚はもういない",
   "adv.kleispack.catch_everything.desc": "全部捕まえた！",
   "adv.kleispack.cook_food": "濃厚な味わい",
   "adv.kleispack.cook_food.desc": "焚火やオーブンで調理して、食材の隠れた一面を引き出す",
@@ -878,5 +878,6 @@
   "item.kleispack.nopales": "ノパル",
   "adv.kleispack.adventure.root": "歌とともに",
   "adv.kleispack.adventure.trade_with_cartographer": "忘れ去られた噂",
-  "adv.kleispack.adventure.trade_with_cartographer.desc": "考古学者から地図を買う"
+  "adv.kleispack.adventure.trade_with_cartographer.desc": "考古学者から地図を買う",
+  "adv.kleispack.adventure.obtain_tanakh.desc": "修道院を冒涜する"
 }
