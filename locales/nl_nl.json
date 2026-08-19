@@ -438,5 +438,7 @@
   "item.kleispack.bruschetta": "Bruschetta",
   "item.minecraft.rabbit_foot": "Gestoofd Paddestoel",
   "item.kleispack.braised_crimson_fungus": "Gestoofd Crimson Schimmel",
-  "item.kleispack.braised_red_mushroom": "Gestoofd Giftige Paddestoel"
+  "item.kleispack.braised_red_mushroom": "Gestoofd Giftige Paddestoel",
+  "item.kleispack.braised_warped_fungus": "Gestoofd Warped Schimmel",
+  "item.minecraft.fermented_spider_eye": "Gebakken Appel"
 }

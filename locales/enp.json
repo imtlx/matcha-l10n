@@ -571,5 +571,19 @@
   "item.kleispack.trade.bulk_smooth_red_sandstone": "Bulk Smooth Red Sandstone",
   "item.kleispack.trade.bulk_smooth_red_sandstone.desc": "x64 Smooth Red Sandstone",
   "item.kleispack.trade.bulk_smooth_sandstone": "Bulk Smooth Sandstone",
-  "item.kleispack.trade.bulk_smooth_sandstone.desc": "x64 Smooth Sandstone"
+  "item.kleispack.trade.bulk_smooth_sandstone.desc": "x64 Smooth Sandstone",
+  "log.kleispack.version_number": "1.12.1",
+  "log.kleispack.now_loaded.desc": "If you get lost or addled, follow the furtherings",
+  "log.kleispack.gamemode_is": "Your gamewise is",
+  "log.kleispack.easy": "Eath",
+  "log.kleispack.normal": "Wonly",
+  "log.kleispack.hard": "Hard",
+  "log.kleispack.easy.desc": ". For players who want to unwind. \n",
+  "log.kleispack.normal.desc": ". For players who want an arveth. \n",
+  "log.kleispack.hard.desc": ". For players who want an unfair arveth. \n",
+  "log.kleispack.difficulty_disclaimer": "(You can change this in the world settings, make sure you reload the world after)",
+  "log.kleispack.player_updated": "A new player has been updated",
+  "log.kleispack.banish_evil": "Evil has been outed from the topside of the world.",
+  "log.kleispack.gamemode_is_now": "Game is now set to",
+  "desc.kleispack.repaired_with": "Fettled with:"
 }
