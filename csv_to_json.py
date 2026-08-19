@@ -8,32 +8,13 @@ import requests
 import sys
 from collections.abc import Iterable
 import re
-from typing import TypeAlias
 
 default_spreadsheet_id: str = "1koZhCQuZrVlRfv9vdfWF2huqhYliztvqEruG_0c_Mus"
-default_main_sheet_id: int = 1336669961
-default_overrides_sheet_id: int = 1300505173
+default_sheet_id: int = 1336669961
 
 escape_re = re.compile(r'\\u([0-9a-f]{4})', re.I)
 
-Overrides: TypeAlias = dict[str, dict[str, str]]
-
-def fetch_sheet(spreadsheet_id: int, sheet_id: int) -> list[str]:
-    url = f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}/export"
-    params = {"gid": sheet_id, "format": "csv"}
-    print(f'Fetching: {url=!r}, {params=!r}', file=sys.stderr)
-
-    response = requests.get(url, params=params)
-    response.raise_for_status()
-    return response.text.splitlines()
-
-def process_overrides_csv(csv_it: Iterable[str]) -> Overrides:
-    result: Overrides = {}
-    for lang, key, value in csv.reader(csv_it):
-        result.setdefault(lang, {})[key] = value
-    return result
-
-def csv_to_json(csv_it: Iterable[str], overrides: Overrides, output_dir: Path) -> None:
+def csv_to_json(csv_it: Iterable[str], output_dir: Path):
     output_dir.mkdir(exist_ok=True)
 
     rows = list(csv.reader(csv_it))
@@ -59,14 +40,13 @@ def csv_to_json(csv_it: Iterable[str], overrides: Overrides, output_dir: Path) -
             if key.startswith('#'): continue
             if key == "": continue
 
+            original = row[1]
+
             value = row[column_index] if column_index < len(row) else ""
-            if value == "": continue
+            if original == "" and value == "": continue
 
             value = escape_re.sub(lambda m: chr(int(m[1], 16)), value)
             translations[key] = value
-
-        if locale in overrides:
-            translations |= overrides[locale]
 
         output_file = output_dir / f"{locale}.json"
         output = json.dumps(translations, ensure_ascii=False, indent=2)
@@ -77,31 +57,25 @@ def csv_to_json(csv_it: Iterable[str], overrides: Overrides, output_dir: Path) -
 
         print(f"Created: {output_file}", file=sys.stderr)
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         epilog=(
             "If 'file' is not provided, automatically fetches from Google "
             "Sheets with either the given spreadsheet and sheet IDs or the "
-            "script defaults."
+            "script default."
         )
     )
     parser.add_argument(
         "file", type=Path, nargs="?", default=None,
     )
     parser.add_argument(
-        "overrides_file", type=Path, nargs="?", default=None,
-    )
-    parser.add_argument(
         "-S", "--spreadsheet-id", type=str, nargs="?", default=default_spreadsheet_id,
-        help=f"default: {default_spreadsheet_id!r}",
+        help=f"default: {default_spreadsheet_id}",
     )
     parser.add_argument(
-        "-s", "--sheet-id", type=str, nargs="?", default=default_main_sheet_id,
-        help=f"default: {default_main_sheet_id!r}",
-    )
-    parser.add_argument(
-        "-O", "--overrides-sheet-id", type=str, nargs="?", default=default_overrides_sheet_id,
-        help=f"default: {default_overrides_sheet_id!r}",
+        "-s", "--sheet-id", type=str, nargs="?", default=default_sheet_id,
+        help=f"default: {default_sheet_id}",
     )
     parser.add_argument(
         "-o", "--output-dir", type=Path, nargs="?", default=Path("locales"),
@@ -109,28 +83,19 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    main_file: Path | None = args.file
-    overrides_file: Path | None = args.overrides_file
-    spreadsheet_id: int = args.spreadsheet_id
-    main_sheet_id: int = args.sheet_id
-    overrides_sheet_id: int = args.overrides_sheet_id
+    input_file: Path | None = args.file
+    spreadsheet_id: str = args.spreadsheet_id
+    sheet_id: str = args.sheet_id
     output_dir: Path = args.output_dir
 
-    overrides_csv: list[str]
-    if overrides_file is None:
-        overrides = process_overrides_csv(
-            fetch_sheet(spreadsheet_id, overrides_sheet_id)
-        )
-    else:
-        with overrides_file.open("r", encoding="utf-8-sig") as f:
-            overrides = process_overrides_csv(f)
+    if input_file is None:
+        url = f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}/export"
+        params = {"gid": sheet_id, "format": "csv"}
+        print(f'Fetching: {url=!r}, {params=!r}', file=sys.stderr)
 
-    if main_file is None:
-        csv_to_json(
-            fetch_sheet(spreadsheet_id, main_sheet_id),
-            overrides,
-            output_dir
-        )
+        response = requests.get(url, params=params)
+        response.raise_for_status()
+        csv_to_json(response.text.splitlines(), output_dir)
     else:
-        with main_file.open("r", encoding="utf-8-sig") as f:
-            csv_to_json(f, overrides, output_dir)
+        with input_file.open("r", encoding="utf-8-sig") as f:
+            csv_to_json(f, output_dir)
