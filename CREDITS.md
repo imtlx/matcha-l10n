@@ -1,7 +1,7 @@
 # Credits
 
 | Language Code | Language Name | Translators |
-| --- | --- | --- |
+| :---: | :---: | --- |
 | en_us | American English | klei<br>deneben: fixed some typos |
 | en_gb | UK English | klei<br>Vee: 421, 429, 729, 737, 753, 769, 783, 820 - localisations and typos |
 | en_ca | Canadian English | klei<br>deneben |
