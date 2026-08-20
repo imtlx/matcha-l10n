@@ -866,5 +866,9 @@
   "log.kleispack.player_updated": "A new player has been updated",
   "log.kleispack.banish_evil": "Evil has been banished from the surface.",
   "log.kleispack.gamemode_is_now": "Game now be set t'",
-  "desc.kleispack.repaired_with": "Repaired with:"
+  "desc.kleispack.repaired_with": "Repaired with:",
+  "adv.kleispack.adventure.root": "With shanties",
+  "adv.kleispack.adventure.trade_with_cartographer": "Rumours of old",
+  "adv.kleispack.adventure.trade_with_cartographer.desc": "Purchase a map from an antiquarian",
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Plunder an abbey"
 }
