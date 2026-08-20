@@ -876,5 +876,8 @@
   "item.kleispack.ptero_chicken_nugget": "chiickn but wingz dino",
   "item.kleispack.tricero_chicken_nugget": "chickn bur rino dino",
   "item.kleispack.nopales": "spiky plant but food?",
-  "adv.kleispack.adventure.root": "with da songz"
+  "adv.kleispack.adventure.root": "with da songz",
+  "adv.kleispack.adventure.trade_with_cartographer": "OLD STORWIES",
+  "adv.kleispack.adventure.trade_with_cartographer.desc": "GET DA MAP FROM THE DIRT LOOT GOBLIN",
+  "adv.kleispack.adventure.obtain_tanakh.desc": "RAID ZA BIG CHURCH"
 }
