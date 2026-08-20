@@ -868,6 +868,7 @@
   "log.kleispack.player_updated": "新玩家数据已更新",
   "log.kleispack.banish_evil": "邪恶已被逐出地表。",
   "log.kleispack.gamemode_is_now": "游戏难度已设置为",
+  "desc.kleispack.repaired_with": "修复材料：",
   "item.minecraft.piglin_spawn_egg": "糖蜜",
   "item.minecraft.hoglin_spawn_egg": "面筋",
   "item.minecraft.happy_ghast_spawn_egg": "油",
