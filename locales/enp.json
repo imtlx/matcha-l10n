@@ -587,6 +587,8 @@
   "item.kleispack.trade.bulk_tuff.desc": "x64 Ashstone",
   "item.kleispack.trade.bulk_calcite": "Bulk Chalkstone",
   "item.kleispack.trade.bulk_calcite.desc": "x64 Chalkstone",
+  "item.kleispack.trade.bulk_dripstone": "Bulk Flowstone",
+  "item.kleispack.trade.bulk_dripstone.desc": "x64 Flowstone",
   "item.kleispack.bundle.seed": "Seed Bundle",
   "item.kleispack.bundle.exotic_seed": "Outlandish Seed Bundle",
   "item.kleispack.bundle.floral": "Floral Bundle",
