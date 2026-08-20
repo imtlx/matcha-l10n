@@ -868,6 +868,7 @@
   "log.kleispack.player_updated": "Un nuevo jugador ha sido actualizado",
   "log.kleispack.banish_evil": "El mal ha sido desterrado de la superficie.",
   "log.kleispack.gamemode_is_now": "La dificultad ahora está establecida en",
+  "desc.kleispack.repaired_with": "Reparable con:",
   "item.minecraft.piglin_spawn_egg": "Melaza",
   "item.minecraft.hoglin_spawn_egg": "Seitán",
   "item.minecraft.happy_ghast_spawn_egg": "Aceite",
