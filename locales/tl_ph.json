@@ -869,6 +869,8 @@
   "log.kleispack.banish_evil": "Naitaboy na ang kasakiman sa ibabaw.",
   "log.kleispack.gamemode_is_now": "Nagbago na ang laro at naging",
   "desc.kleispack.repaired_with": "Naayos gamit ang:",
+  "effect.kleispack.weakness": "🥀 Kahinaan (%s)",
+  "effect.kleispack.strength": "🗡 Kalakasan (%s)",
   "item.minecraft.piglin_spawn_egg": "Melasa",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Langis",
@@ -877,6 +879,8 @@
   "item.kleispack.ptero_chicken_nugget": "Piterong Nugget na Manok",
   "item.kleispack.tricero_chicken_nugget": "Triserong Nugget na Manok",
   "item.kleispack.nopales": "Nopales",
+  "item.kleispack.lumpia": "Lumpia",
+  "item.kleispack.fish_and_chips": "Isda at Piniritong Abukot",
   "adv.kleispack.adventure.root": "Ang Himig",
   "adv.kleispack.adventure.trade_with_cartographer": "Nalimutang Katakata",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Bumili ng mapa mula sa isang Mag-aagnos"
