@@ -786,5 +786,8 @@
   "adv.kleispack.preserve_everything.desc": "Wees op alles voorberid!",
   "adv.kleispack.preserve_food": "Augurken & Jam",
   "adv.kleispack.preserve_food.desc": "Bewaar een soort Eten om zijn smaak te verbeteren",
-  "adv.kleispack.root": "Van deze Wereld"
+  "adv.kleispack.root": "Van deze Wereld",
+  "adv.kleispack.smith_silver_sword": "Krijger",
+  "adv.kleispack.smith_silver_sword.desc": "Smeed een Nazar op een Ijzer Zwaard met Zilver in Smeedstafel",
+  "adv.kleispack.smith_warding_shield": "Beschermer"
 }
