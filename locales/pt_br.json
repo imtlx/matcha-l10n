@@ -951,7 +951,7 @@
   "effect.kleispack.jump_boost": "🐇 Supersalto (%s)",
   "effect.kleispack.mining_fatigue": "⛏ Fatiga (%s)",
   "effect.kleispack.nausea": " Náusea (%s)",
-  "slow_falling": " Queda Lenta (%s)",
+  "effect.kleispack.slow_falling": " Queda Lenta (%s)",
   "item.minecraft.piglin_spawn_egg": "Melaço",
   "item.minecraft.hoglin_spawn_egg": "Carne de Glúten",
   "item.minecraft.happy_ghast_spawn_egg": "Óleo",

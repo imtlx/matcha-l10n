@@ -951,7 +951,7 @@
   "effect.kleispack.jump_boost": "🐇 Taasang Talon (%s)",
   "effect.kleispack.mining_fatigue": "⛏ Pagpapagod (%s)",
   "effect.kleispack.nausea": " Pagkahilo (%s)",
-  "slow_falling": " Marahang Hulog (%s)",
+  "effect.kleispack.slow_falling": " Marahang Hulog (%s)",
   "item.minecraft.piglin_spawn_egg": "Melasa",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Langis",

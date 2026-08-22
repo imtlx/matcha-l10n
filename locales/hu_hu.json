@@ -900,7 +900,7 @@
   "effect.kleispack.jump_boost": "🐇 Magasugrás (%s)",
   "effect.kleispack.mining_fatigue": "⛏ Bányásfáradtság (%s)",
   "effect.kleispack.nausea": " Részegség (%s)",
-  "slow_falling": " Lassúesés (%s)",
+  "effect.kleispack.slow_falling": " Lassúesés (%s)",
   "item.minecraft.piglin_spawn_egg": "Melasz",
   "item.minecraft.hoglin_spawn_egg": "Szejtán",
   "item.minecraft.happy_ghast_spawn_egg": "Olaj",

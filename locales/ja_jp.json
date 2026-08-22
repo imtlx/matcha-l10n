@@ -925,7 +925,7 @@
   "effect.kleispack.jump_boost": "🐇 跳躍力上昇（%s）",
   "effect.kleispack.mining_fatigue": "⛏ 採掘速度低下（%s）",
   "effect.kleispack.nausea": " 吐き気（%s）",
-  "slow_falling": " 落下速度低下（%s）",
+  "effect.kleispack.slow_falling": " 落下速度低下（%s）",
   "item.minecraft.piglin_spawn_egg": "糖蜜",
   "item.minecraft.hoglin_spawn_egg": "グルテンミート",
   "item.minecraft.happy_ghast_spawn_egg": "油",

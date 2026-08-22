@@ -951,7 +951,7 @@
   "effect.kleispack.jump_boost": "🐇Sprungkraft (%s)",
   "effect.kleispack.mining_fatigue": "⛏ Abbaulähmig (%s)",
   "effect.kleispack.nausea": " Übelkeit (%s)",
-  "slow_falling": " Sanfte Fall (%s)",
+  "effect.kleispack.slow_falling": " Sanfte Fall (%s)",
   "item.minecraft.piglin_spawn_egg": "Melasse",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Öl",

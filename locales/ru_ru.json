@@ -951,7 +951,7 @@
   "effect.kleispack.jump_boost": "🐇 Прыгучесть (%s)",
   "effect.kleispack.mining_fatigue": "⛏ Утомление (%s)",
   "effect.kleispack.nausea": " Тошнота (%s)",
-  "slow_falling": " Плавное падение (%s)",
+  "effect.kleispack.slow_falling": " Плавное падение (%s)",
   "item.minecraft.piglin_spawn_egg": "Меласса",
   "item.minecraft.hoglin_spawn_egg": "Сейтан",
   "item.minecraft.happy_ghast_spawn_egg": "Масло",

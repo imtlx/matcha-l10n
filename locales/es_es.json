@@ -904,7 +904,7 @@
   "effect.kleispack.jump_boost": "🐇 Supersalto (%s)",
   "effect.kleispack.mining_fatigue": "⛏ Fatiga minera (%s)",
   "effect.kleispack.nausea": " Náusea (%s)",
-  "slow_falling": " Caída lenta (%s)",
+  "effect.kleispack.slow_falling": " Caída lenta (%s)",
   "item.minecraft.piglin_spawn_egg": "Melaza",
   "item.minecraft.hoglin_spawn_egg": "Seitán",
   "item.minecraft.happy_ghast_spawn_egg": "Aceite",

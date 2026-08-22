@@ -947,7 +947,7 @@
   "effect.kleispack.jump_boost": "🐇 跳跃提升（%s）",
   "effect.kleispack.mining_fatigue": "⛏ 挖掘疲劳（%s）",
   "effect.kleispack.nausea": " 反胃（%s）",
-  "slow_falling": " 缓降（%s）",
+  "effect.kleispack.slow_falling": " 缓降（%s）",
   "item.minecraft.piglin_spawn_egg": "糖蜜",
   "item.minecraft.hoglin_spawn_egg": "面筋",
   "item.minecraft.happy_ghast_spawn_egg": "油",

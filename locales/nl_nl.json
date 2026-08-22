@@ -900,7 +900,7 @@
   "effect.kleispack.jump_boost": "🐇 Sprongversterking (%s)",
   "effect.kleispack.mining_fatigue": "⛏ Mijnmoeheid (%s)",
   "effect.kleispack.nausea": " Misselijkheid (%s)",
-  "slow_falling": " Valvertraging (%s)",
+  "effect.kleispack.slow_falling": " Valvertraging (%s)",
   "item.minecraft.piglin_spawn_egg": "Stroop",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Olie",
