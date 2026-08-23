@@ -144,5 +144,11 @@
   "block.kleispack.banner.bi_pride.black": "Svarttvättad bisexuell pride",
   "block.kleispack.banner.lesbian_pride.black": "Svarttvättad lesbisk pride",
   "block.kleispack.banner.inclusive_pride.black": "Svarttvättad inklusiv pride",
+  "item.kleispack.steel_spear": "Stållegering",
+  "item.kleispack.steel_sword": "Stålsvärd",
+  "item.kleispack.steel_axe": "Stålyxa",
+  "item.kleispack.steel_shovel": "Stålspade",
+  "item.kleispack.steel_helmet": "Stålhjälm",
+  "item.kleispack.steel_shears": "Stålsax",
   "item.minecraft.happy_ghast_spawn_egg": "Olja"
 }
