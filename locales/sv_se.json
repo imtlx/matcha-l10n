@@ -623,7 +623,7 @@
   "enchantment.kleispack.warding3.set_bonus_apotropaic": "   Max",
   "enchantment.kleispack.warding3.set_bonus_divinity": "  ❤❤  (00:30)",
   "enchantment.kleispack.shakudo_regen": "❣  (00:30)",
-  "enchantment.kleispack.shakudo_regen_bonus": "  ❣  (00:04)",
+  "enchantment.kleispack.shakudo_regen_bonus": "  ❣  -(00:04)",
   "enchantment.kleispack.shakudo_elytra_regen_bonus": "  ❤  (00:10)",
   "enchantment.kleispack.zephyr": "Sefyr",
   "item.kleispack.blessing": "Välsignelse",

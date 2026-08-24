@@ -626,7 +626,7 @@
   "enchantment.kleispack.warding3.set_bonus_apotropaic": "   Máx.",
   "enchantment.kleispack.warding3.set_bonus_divinity": "  ❤❤  (00:30)",
   "enchantment.kleispack.shakudo_regen": "❣  (00:30)",
-  "enchantment.kleispack.shakudo_regen_bonus": "  ❣  (00:04)",
+  "enchantment.kleispack.shakudo_regen_bonus": "  ❣  -(00:04)",
   "enchantment.kleispack.shakudo_elytra_regen_bonus": "  ❤  (00:10)",
   "enchantment.kleispack.zephyr": "Céfiro",
   "item.kleispack.blessing": "Bendición",
@@ -968,9 +968,12 @@
   "item.kleispack.ice_cream": "Helado",
   "item.kleispack.hot_honey_wings": "Alitas con miel picante",
   "item.kleispack.bunuelo": "Buñuelo",
+  "item.minecraft.ghast_spawn_egg": "Caldo de curry de zapallo",
+  "item.kleispack.pumpkin_curry": "Curry de zapallo",
+  "adv.kleispack.cook_pumpkin_curry": "Nutrición fortificada",
+  "adv.kleispack.cook_pumpkin_curry.desc": "Prepara curry de zapallo",
   "adv.kleispack.adventure.root": "Con canciones",
   "adv.kleispack.adventure.trade_with_cartographer": "Rumores olvidados",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Cómprale un mapa a un arqueólogo",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Profana una abadía",
-  "filled_map.seminary": "Mapa de seminario"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Profana una abadía"
 }
