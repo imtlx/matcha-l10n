@@ -970,8 +970,10 @@
   "item.kleispack.pumpkin_curry": "Pumpkin Curry",
   "adv.kleispack.cook_pumpkin_curry": "Fortified Goodness",
   "adv.kleispack.cook_pumpkin_curry.desc": "Make Pumpkin Curry",
+  "item.kleispack.sweet_berry_oatmeal": "Sweet Berry Oatmeal",
   "adv.kleispack.adventure.root": "With Songs",
   "adv.kleispack.adventure.trade_with_cartographer": "Forgotten Rumours",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Buy a map from an Archaeologist",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Desecrate an Abbey"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Desecrate an Abbey",
+  "filled_map.house_of_wisdom": "Archive Map"
 }
