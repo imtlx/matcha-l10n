@@ -61,6 +61,7 @@
   "item.minecraft.golden_helmet": "Coron Aur",
   "item.kleispack.golden_compass": "Cwmpawd Aur",
   "item.kleispack.wooden_cross": "Croes Pren",
+  "item.minecraft.fermented_spider_eye": "Afal di Pobi",
   "item.minecraft.mushroom_stew": "Siocled",
   "item.kleispack.mead": "Medd",
   "item.kleispack.fried_egg": "Wŷ di Ffrio",
@@ -69,5 +70,14 @@
   "item.minecraft.cod": "Penfras",
   "item.minecraft.salmon": "Eog",
   "item.kleispack.blessing": "Bendith",
-  "item.kleispack.frog": "Llyffant"
+  "item.kleispack.frog": "Llyffant",
+  "item.kleispack.baby_cold_sheep": "Oen Du",
+  "item.kleispack.baby_temperate_sheep": "Oen Wen",
+  "item.kleispack.rose_classic": "Rhosyn",
+  "item.minecraft.potion.effect.empty": "Potel o Ddŵr",
+  "log.kleispack.easy": "Hawdd",
+  "log.kleispack.normal": "Arferol",
+  "log.kleispack.hard": "Anodd",
+  "item.minecraft.happy_ghast_spawn_egg": "Olew",
+  "item.kleispack.ice_cream": "Hufen Iâ"
 }
