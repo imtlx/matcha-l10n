@@ -965,7 +965,7 @@
   "item.kleispack.tricero_chicken_nugget": "ʇǝᵷᵷnN uǝʞɔᴉɥƆ oɹǝɔᴉɹ⟘",
   "item.kleispack.nopales": "sǝꞁɐboN",
   "item.kleispack.lumpia": "ɐᴉbɯnꞀ",
-  "item.kleispack.oatmeal": "ꞁɐǝɯʇɐO",
+  "item.kleispack.oatmeal": "ꞁɐǝɯʇɐO uoɯɐuuᴉƆ ǝꞁbbⱯ",
   "item.kleispack.fish_and_chips": "sbᴉɥƆ puɐ ɥsᴉℲ",
   "item.kleispack.ice_cream": "ɯɐǝɹƆ ǝɔI",
   "item.kleispack.hot_honey_wings": "sᵷuᴉM ʎǝuoH ʇoH",
@@ -974,8 +974,11 @@
   "item.kleispack.pumpkin_curry": "ʎɹɹnƆ uᴉʞbɯnԀ",
   "adv.kleispack.cook_pumpkin_curry": "ssǝupoo⅁ pǝᴉɟᴉʇɹoℲ",
   "adv.kleispack.cook_pumpkin_curry.desc": "ʎɹɹnƆ uᴉʞbɯnԀ ǝʞɐW",
+  "item.kleispack.cinnamon_ice_cream": "ɯɐǝɹƆ ǝɔI uoɯɐuuᴉƆ",
+  "item.kleispack.sweet_berry_oatmeal": "ꞁɐǝɯʇɐO ʎɹɹǝᗺ ʇǝǝʍS",
   "adv.kleispack.adventure.root": "sᵷuoS ɥʇᴉM",
   "adv.kleispack.adventure.trade_with_cartographer": "sɹnoɯnᴚ uǝʇʇoᵷɹoℲ",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "ʇsᴉᵷoꞁoǝɐɥɔɹⱯ uɐ ɯoɹɟ bɐɯ ɐ ʎnᗺ",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "ʎǝqqⱯ uɐ ǝʇɐɹɔǝsǝᗡ"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "ʎǝqqⱯ uɐ ǝʇɐɹɔǝsǝᗡ",
+  "filled_map.house_of_wisdom": "bɐW ǝʌᴉɥɔɹⱯ"
 }
