@@ -965,7 +965,7 @@
   "item.kleispack.tricero_chicken_nugget": "Куриный наггетс в форме трицератопса",
   "item.kleispack.nopales": "Нопалес",
   "item.kleispack.lumpia": "Лумпия",
-  "item.kleispack.oatmeal": "Овсянка",
+  "item.kleispack.oatmeal": "Овсянка с яблоком и корицей",
   "item.kleispack.fish_and_chips": "Рыба с картофелем фри",
   "item.kleispack.ice_cream": "Мороженое",
   "item.kleispack.hot_honey_wings": "Острые медовые крылышки",
@@ -974,9 +974,12 @@
   "item.kleispack.pumpkin_curry": "Тыквенное карри",
   "adv.kleispack.cook_pumpkin_curry": "Могущественное блюдо",
   "adv.kleispack.cook_pumpkin_curry.desc": "Приготовьте тыквенное карри",
+  "item.kleispack.cinnamon_ice_cream": "Мороженое с корицей",
+  "item.kleispack.sweet_berry_oatmeal": "Овсянка со сладкими ягодами",
   "adv.kleispack.adventure.root": "С Песнями",
   "adv.kleispack.adventure.trade_with_cartographer": "Забытые слухи",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Купите карту у археолога",
   "adv.kleispack.adventure.obtain_tanakh": "Бога нет!",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Оскверните монастырь"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Оскверните монастырь",
+  "filled_map.house_of_wisdom": "Карта архива"
 }
