@@ -965,7 +965,7 @@
   "item.kleispack.tricero_chicken_nugget": "Tricero kycklingnugget",
   "item.kleispack.nopales": "Nopales",
   "item.kleispack.lumpia": "Filippinska vårrullar",
-  "item.kleispack.oatmeal": "Oatmeal",
+  "item.kleispack.oatmeal": "Äpple kanel oatmeal",
   "item.kleispack.fish_and_chips": "Fish and chips",
   "item.kleispack.ice_cream": "Glass",
   "item.kleispack.hot_honey_wings": "Hot wings täckt i honung",
@@ -974,8 +974,11 @@
   "item.kleispack.pumpkin_curry": "Pumpacurry",
   "adv.kleispack.cook_pumpkin_curry": "Befäst godhet",
   "adv.kleispack.cook_pumpkin_curry.desc": "Laga pumpacurry till mat",
+  "item.kleispack.cinnamon_ice_cream": "Kanelglass",
+  "item.kleispack.sweet_berry_oatmeal": "Sötbär oatmeal",
   "adv.kleispack.adventure.root": "Med låtar",
   "adv.kleispack.adventure.trade_with_cartographer": "Bortglömda rykten",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Köp en karta från en arkeologist",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Vanhelga ett kloster"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Vanhelga ett kloster",
+  "filled_map.house_of_wisdom": "Akrivera karta"
 }
