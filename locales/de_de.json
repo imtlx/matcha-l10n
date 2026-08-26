@@ -364,6 +364,7 @@
   "item.minecraft.resin_brick": "Stahllegierung",
   "item.kleispack.steel_spear": "Stahlspeer",
   "item.kleispack.steel_sword": "Stahlschwert",
+  "item.kleispack.steel_claymore": "Stahlbreitschwert",
   "item.kleispack.steel_axe": "Stahlaxt",
   "item.kleispack.steel_pickaxe": "Stahlspitzhacke",
   "item.kleispack.steel_shovel": "Stahlschaufel",
@@ -903,6 +904,7 @@
   "filled_map.village_savanna": "Karte zu Verlassenem Savannendorf",
   "filled_map.village_snowy": "Karte zu Verlassenem Verschneitem Dorf",
   "filled_map.village_taiga": "Karte zu Verlassenem Taigadorf",
+  "filled_map.shipwreck": "Karte zu versunkenem Schiff",
   "item.kleispack.silver_sword": "Silberschwert",
   "item.kleispack.warding_shield": "Silberschild",
   "log.kleispack.now_loaded": "🍵 Matcha Flavoured wurde geladen, Version ",
@@ -976,5 +978,6 @@
   "adv.kleispack.adventure.root": "Mit Gesang",
   "adv.kleispack.adventure.trade_with_cartographer": "Vergessene Gerüchte",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Kaufe eine Karte von einem Archäologen",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Entweihe eine Abtei"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Entweihe eine Abtei",
+  "filled_map.house_of_wisdom": "Karte zu Archiv"
 }
