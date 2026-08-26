@@ -77,5 +77,9 @@
   "entity.minecraft.villager.toolsmith": "jan kiwen",
   "entity.minecraft.villager.butcher": "jan moku",
   "entity.minecraft.villager.librarian": "jan toki",
-  "item.kleispack.copper_shears": "ilo kipisi lili ante"
+  "item.kleispack.copper_shears": "ilo kipisi lili ante",
+  "adv.fishing.rarity.1": "§7⭐§8☆☆☆",
+  "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
+  "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
+  "adv.fishing.rarity.4": "§d⭐⭐⭐⭐"
 }
