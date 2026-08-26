@@ -364,6 +364,7 @@
   "item.minecraft.resin_brick": "Acél ötvözet",
   "item.kleispack.steel_spear": "Acél lándzsa",
   "item.kleispack.steel_sword": "Acél kard",
+  "item.kleispack.steel_claymore": "Acél agyagbálvány",
   "item.kleispack.steel_axe": "Acél balta",
   "item.kleispack.steel_pickaxe": "Acél csákány",
   "item.kleispack.steel_shovel": "Acél ásó",
@@ -978,5 +979,6 @@
   "adv.kleispack.adventure.root": "Zenékkel",
   "adv.kleispack.adventure.trade_with_cartographer": "Elveszett pletykák",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Vegyél térképet egy régésztől",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Találj és fossz ki egy apátságot"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Találj és fossz ki egy apátságot",
+  "filled_map.house_of_wisdom": "Tudástár térlépe"
 }

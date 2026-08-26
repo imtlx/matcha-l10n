@@ -965,16 +965,20 @@
   "item.kleispack.tricero_chicken_nugget": "Horned beast o' cooked fowl",
   "item.kleispack.nopales": "Prickly pear",
   "item.kleispack.lumpia": "Filled doughroll",
-  "item.kleispack.oatmeal": "Dehusked oat grain",
+  "item.kleispack.oatmeal": "Dehusked oat grain o' apple 'n' sweetspice",
   "item.kleispack.fish_and_chips": "Fish 'n' chips",
   "item.kleispack.ice_cream": "Snowed cream",
   "item.kleispack.hot_honey_wings": "Hot honeyed wings",
   "item.kleispack.bunuelo": "Fried dough",
   "item.minecraft.ghast_spawn_egg": "Stock o' spice o' gourd squash",
   "item.kleispack.pumpkin_curry": "Spice o' gourd squash",
+  "adv.kleispack.cook_pumpkin_curry": "Good grub",
   "adv.kleispack.cook_pumpkin_curry.desc": "Make some spice o' gourd squash",
+  "item.kleispack.cinnamon_ice_cream": "Snowed cream o' sweetspice",
+  "item.kleispack.sweet_berry_oatmeal": "Dehusked oat grain o' land caper",
   "adv.kleispack.adventure.root": "With shanties",
   "adv.kleispack.adventure.trade_with_cartographer": "Rumours of old",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Purchase a map from an antiquarian",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Plunder an abbey"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "Plunder an abbey",
+  "filled_map.house_of_wisdom": "Map t' th' olde files"
 }
