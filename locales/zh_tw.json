@@ -471,6 +471,7 @@
   "item.kleispack.bokguk": "韓式河豚湯",
   "item.kleispack.honey_ginger_tea": "蜂蜜生薑茶",
   "item.kleispack.mead": "蜂蜜酒",
+  "item.kleispack.bubbling_mead": "冒泡的蜂蜜酒",
   "item.kleispack.honied_french_toast": "蜂蜜法式吐司",
   "item.kleispack.golden_steamed_carrots": "清蒸金胡蘿蔔",
   "item.kleispack.golden_pickled_carrots": "醃製金胡蘿蔔",
@@ -758,7 +759,7 @@
   "adv.kleispack.obtain_shakudo.desc": "用赤銅鍛造的銅製裝備帶有絲綢之觸和淨化效果",
   "adv.kleispack.catch_everything": "撈空大海",
   "adv.kleispack.catch_everything.desc": "抓到所有魚！",
-  "adv.kleispack.cook_food": "口味濃鬱",
+  "adv.kleispack.cook_food": "口味濃郁",
   "adv.kleispack.cook_food.desc": "使用營火或磚爐烹調，以解鎖食物的隱藏效果",
   "adv.kleispack.cook_secret_food": "隱藏口味",
   "adv.kleispack.cook_secret_food.desc": "烹調一個隱藏食材",
@@ -976,7 +977,7 @@
   "log.kleispack.wandering_trader.beacon_placed": "已經有一位流浪商人正在前來的路上，請耐心等候他的到來",
   "log.kleispack.wandering_trader.kill": "流浪商人已離去",
   "log.kleispack.wandering_trader.kill_early": "流浪商人跟丟了你的狼煙……",
-  "log.kleispack.wandering_trader.summoned": "流浪商人已抵達，他會在此停留五分鐘",
+  "log.kleispack.wandering_trader.summoned": "流浪商人已抵達，他將在此停留五分鐘",
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
   "item.minecraft.piglin_spawn_egg": "糖蜜",
   "item.minecraft.hoglin_spawn_egg": "麵筋",
@@ -1044,7 +1045,7 @@
   "adv.kleispack.anglers_almanac.freshwater_pufferfish.desc": "體型嬌小，一旦遇到危險就會膨脹成帶刺的氣球。滿合理的",
   "adv.kleispack.anglers_almanac.fish_bones.desc": "魚跑掉了……顯然跑不夠快",
   "adv.kleispack.anglers_almanac.frog.desc": "你本想釣一條魚，卻釣到了青蛙。釣魚的目標變得越來越模糊了",
-  "adv.kleispack.anglers_almanac.ink_sac.desc": "可疑的黑色囊狀物品，顯然持有者不想被任何人目擊",
+  "adv.kleispack.anglers_almanac.ink_sac.desc": "可疑的黑色囊狀物品，顯然其持有者不想被任何人目擊",
   "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
   "adv.kleispack.anglers_almanac.estus_ash.desc": "",
   "adv.kleispack.anglers_almanac.sulfur_chunk.desc": "",
@@ -1058,5 +1059,7 @@
   "adv.kleispack.adventure.trade_with_cartographer": "遺忘傳聞",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "向考古學家購入地圖",
   "adv.kleispack.adventure.obtain_tanakh.desc": "褻瀆修道院",
-  "filled_map.house_of_wisdom": "檔案館地圖"
+  "filled_map.house_of_wisdom": "檔案館地圖",
+  "block.minecraft.short_dry_grass": "矮乾草",
+  "block.minecraft.tall_dry_grass": "高乾草"
 }
