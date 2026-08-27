@@ -545,10 +545,6 @@
   "item.kleispack.fish.pale_fish": "Creaking Fish",
   "item.kleispack.fish.echo_fish": "Echo Eel",
   "item.kleispack.fish.cooked_pufferfish": "Cooked Pufferfish",
-  "adv.fishing.rarity.1": "§7⭐§8☆☆☆",
-  "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
-  "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
-  "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
   "enchantment.kleispack.anemos": "Anemos",
   "enchantment.kleispack.bloodrage": "Bloodrage",
   "enchantment.kleispack.cleanses_head": " Cleanses: Blindness, Darkness",
@@ -850,5 +846,16 @@
   "filled_map.mansion": "Mansion Map",
   "item.minecraft.potion.effect.empty": "Water Bottle",
   "item.kleispack.tinder": "Tinder",
-  "music.game.abbey": "Vee Vaicekauskas - Abbey"
+  "music.game.abbey": "Vee Vaicekauskas - Abbey",
+  "adv.fishing.rarity.1": "§7⭐§8☆☆☆",
+  "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
+  "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
+  "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
+  "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
+  "adv.kleispack.anglers_almanac.estus_ash.desc": "",
+  "adv.kleispack.anglers_almanac.sulfur_chunk.desc": "",
+  "adv.kleispack.anglers_almanac.goat_horn.desc": "",
+  "item.kleispack.curry_ice_cream": "",
+  "item.kleispack.chocolate_ice_cream": "",
+  "item.kleispack.sweet_berry_ice_cream": ""
 }
