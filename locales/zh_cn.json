@@ -471,6 +471,7 @@
   "item.kleispack.bokguk": "河豚汤",
   "item.kleispack.honey_ginger_tea": "蜂蜜姜茶",
   "item.kleispack.mead": "蜂蜜酒",
+  "item.kleispack.bubbling_mead": "气泡蜂蜜酒",
   "item.kleispack.honied_french_toast": "蜂蜜法式吐司",
   "item.kleispack.golden_steamed_carrots": "蒸金胡萝卜",
   "item.kleispack.golden_pickled_carrots": "腌金胡萝卜",
@@ -1074,8 +1075,8 @@
   "adv.kleispack.anglers_almanac.axolotl.desc": "你本来是来钓鱼的。美西螈认为：不要在意细节。",
   "adv.kleispack.anglers_almanac.bamboo.desc": "不是鱼，甚至和鱼完全不沾边。看来你的鱼竿已经跨界发展到园艺了。",
   "adv.kleispack.anglers_almanac.bowl.desc": "一个空碗，说明鱼要么逃走了，要么从一开始就没被邀请到餐桌上。",
-  "adv.kleispack.anglers_almanac.fish_bones.desc": "鱼逃走了。它的骨架显然没能跟上。",
-  "adv.kleispack.anglers_almanac.frog.desc": "你瞄准的是鱼，结果不知怎么钓上来一只青蛙。钓鱼开始变得不那么专一了。",
+  "adv.kleispack.anglers_almanac.fish_bones.desc": "鱼逃走了。它的骨架没能跟上。",
+  "adv.kleispack.anglers_almanac.frog.desc": "你本来是来钓鱼的，结果不知怎么钓上来一只青蛙。钓鱼开始变得不那么专一了。",
   "adv.kleispack.anglers_almanac.ink_sac.desc": "一包可疑的墨囊，来自某个明显不想留下任何目击者的家伙。",
   "adv.kleispack.anglers_almanac.leather.desc": "不是鱼，也不是宝藏，其实是海洋发的参与奖。",
   "adv.kleispack.anglers_almanac.lily_pad.desc": "一片完好无损的睡莲叶。如果你突然需要一点池塘装饰，那很好了。",
@@ -1096,7 +1097,7 @@
   "adv.kleispack.anglers_almanac.resin_clump.desc": "来自苍白花园的一团黏糊糊的橙色树脂。恭喜，你钓到了树汁。",
   "adv.kleispack.anglers_almanac.sculk_vein.desc": "深暗之域的奇怪生长物，像活着的黑暗一样爬满表面，完全不尊重私人空间。",
   "adv.kleispack.anglers_almanac.echo_shard.desc": "一块来自远古城市的神秘碎片，回荡着昔日的记忆...以及当年那些作死的决定。",
-  "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
+  "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "一片刻有鱼竿形象的陶片。千磨万击还坚劲，任尔东西南北风。这便是钓鱼人。",
   "adv.kleispack.anglers_almanac.estus_ash.desc": "",
   "adv.kleispack.anglers_almanac.sulfur_chunk.desc": "",
   "adv.kleispack.anglers_almanac.goat_horn.desc": "",
@@ -1108,5 +1109,6 @@
   "adv.kleispack.adventure.root": "与歌相伴",
   "adv.kleispack.adventure.trade_with_cartographer": "尘封的传闻",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "从考古学家处购买一张地图",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "亵渎一座修道院"
+  "adv.kleispack.adventure.obtain_tanakh.desc": "亵渎一座修道院",
+  "filled_map.house_of_wisdom": "档案馆地图"
 }
