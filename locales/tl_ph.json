@@ -918,6 +918,7 @@
   "log.kleispack.banish_evil": "Naitaboy na ang kasakiman sa ibabaw.",
   "log.kleispack.gamemode_is_now": "Nagbago na ang laro at naging",
   "desc.kleispack.repaired_with": "Naayos gamit ang:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Balik (%s)",
   "effect.kleispack.regeneration_2": "❤ Balik II (%s)",
   "effect.kleispack.resistance": "🛡 Katatagan (%s)",

@@ -917,6 +917,7 @@
   "log.kleispack.banish_evil": "Evil has been banished from the surface.",
   "log.kleispack.gamemode_is_now": "Game is now set to",
   "desc.kleispack.repaired_with": "Repaired with:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Regen (%s)",
   "effect.kleispack.regeneration_2": "❤ Regen II (%s)",
   "effect.kleispack.resistance": "🛡 Resistance (%s)",

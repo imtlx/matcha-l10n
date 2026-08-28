@@ -824,6 +824,7 @@
   "log.kleispack.banish_evil": "Evil has been outed from the topside of the world.",
   "log.kleispack.gamemode_is_now": "Game is now set to",
   "desc.kleispack.repaired_with": "Fettled with:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Edhealing (%s)",
   "effect.kleispack.regeneration_2": "❤ Edhealing II (%s)",
   "effect.kleispack.resistance": "🛡 Withstanding (%s)",

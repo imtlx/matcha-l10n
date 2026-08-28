@@ -917,6 +917,7 @@
   "log.kleispack.banish_evil": "El mal ha sido desterrado de la superficie.",
   "log.kleispack.gamemode_is_now": "La dificultad ahora está establecida en",
   "desc.kleispack.repaired_with": "Reparable con:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Regeneración (%s)",
   "effect.kleispack.regeneration_2": "❤ Regeneración II (%s)",
   "effect.kleispack.resistance": "🛡 Resistencia (%s)",

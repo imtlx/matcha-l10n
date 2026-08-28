@@ -746,6 +746,7 @@
   "log.kleispack.banish_evil": "Zło zostało wygnane z powierzchni.",
   "log.kleispack.gamemode_is_now": "Poziom trudności ustawiono na",
   "desc.kleispack.repaired_with": "Naprawiono za pomocą:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Regeneracja (%s)",
   "effect.kleispack.regeneration_2": "❤ Regeneracja II (%s)",
   "effect.kleispack.resistance": "🛡 Odporność (%s)",

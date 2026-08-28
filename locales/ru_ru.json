@@ -918,6 +918,7 @@
   "log.kleispack.banish_evil": "Злые силы были изгнаны с поверхности.",
   "log.kleispack.gamemode_is_now": "Сложность игры теперь -",
   "desc.kleispack.repaired_with": "Чинится с помощью:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Регенерация (%s)",
   "effect.kleispack.regeneration_2": "❤ Регенерация II (%s)",
   "effect.kleispack.resistance": "🛡 Сопротивление (%s)",

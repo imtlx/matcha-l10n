@@ -917,6 +917,7 @@
   "log.kleispack.banish_evil": "Het kwaad is verbannen van het oppervlak",
   "log.kleispack.gamemode_is_now": "De Game staat nu op",
   "desc.kleispack.repaired_with": "Gerepareerd met:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Regeneratie (%s)",
   "effect.kleispack.regeneration_2": "❤ Regeneratie II (%s)",
   "effect.kleispack.resistance": "🛡 Weerstand (%s)",

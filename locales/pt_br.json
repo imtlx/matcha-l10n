@@ -917,6 +917,7 @@
   "log.kleispack.banish_evil": "O Mal foi exilado da Superfície",
   "log.kleispack.gamemode_is_now": "O Modo de Jogo foi colocado no",
   "desc.kleispack.repaired_with": "Pode ser consertado com:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Regeneração (%s)",
   "effect.kleispack.regeneration_2": "❤ Regeneração II (%s)",
   "effect.kleispack.resistance": "🛡 Resistência (%s)",

@@ -917,6 +917,7 @@
   "log.kleispack.banish_evil": "Evil has been banished from the surface.",
   "log.kleispack.gamemode_is_now": "Game now be set t'",
   "desc.kleispack.repaired_with": "Repaired with:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Slow feel better (%s)",
   "effect.kleispack.regeneration_2": "❤ Slow feel better II (%s)",
   "effect.kleispack.resistance": "🛡 Pain tolerance (%s)",

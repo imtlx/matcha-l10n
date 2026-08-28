@@ -605,6 +605,7 @@
   "log.kleispack.easy": "Hawdd",
   "log.kleispack.normal": "Arferol",
   "log.kleispack.hard": "Anodd",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Adfywio (%s)",
   "effect.kleispack.regeneration_2": "❤ Adfywio II (%s)",
   "effect.kleispack.resistance": "🛡 Gwrthsafiad (%s)",

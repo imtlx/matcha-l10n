@@ -915,6 +915,7 @@
   "log.kleispack.banish_evil": "Le mal a été banni de la surface.",
   "log.kleispack.gamemode_is_now": "Le mode de jeu est désormais :",
   "desc.kleispack.repaired_with": "Réparé(e) avec :",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ Régéneration (%s)",
   "effect.kleispack.regeneration_2": "❤ Régéneration II (%s)",
   "effect.kleispack.resistance": "🛡 Résistance (%s)",

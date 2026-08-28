@@ -918,6 +918,7 @@
   "log.kleispack.banish_evil": "邪恶已被逐出地表。",
   "log.kleispack.gamemode_is_now": "游戏难度已设置为",
   "desc.kleispack.repaired_with": "修复材料:",
+  "desc.kleispack.throwable": "💥",
   "effect.kleispack.regeneration": "❤ 生命恢复（%s）",
   "effect.kleispack.regeneration_2": "❤ 生命恢复 II（%s）",
   "effect.kleispack.resistance": "🛡 抗性提升（%s）",
