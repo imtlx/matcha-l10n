@@ -37,7 +37,7 @@
   "item.minecraft.smithing_template.netherite_upgrade.base_slot_description": "Añade una armadura, arma o herramienta",
   "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Cualquier aleación",
   "item.minecraft.netherite_upgrade_smithing_template.new": "Molde de mejora de herrería",
-  "container.upgrade.missing_template_tooltip": "Añade un molde de herrería o un material base",
+  "container.upgrade.missing_template_tooltip": "Añade un molde de herrería para mejorar dolabras y azadones",
   "item.minecraft.nether_star": "Favor divino",
   "item.minecraft.turtle_scute": "Fragmento divino",
   "item.minecraft.turtle_helmet": "Caparazón de tortuga",
