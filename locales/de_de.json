@@ -37,7 +37,7 @@
   "item.minecraft.smithing_template.netherite_upgrade.base_slot_description": "Rüstung, Waffe oder Werkzeug hinzufügen",
   "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Jegliche Legierung",
   "item.minecraft.netherite_upgrade_smithing_template.new": "Aufwertungs-Schmiedevorlage",
-  "container.upgrade.missing_template_tooltip": "Füge Schmiedevorlage oder Basismetall hinzu",
+  "container.upgrade.missing_template_tooltip": "Schmiedevorlage hinzufügen oder leer lassen",
   "item.minecraft.nether_star": "Heilige Gunst",
   "item.minecraft.turtle_scute": "Heiliges Fragment",
   "item.minecraft.turtle_helmet": "Schutzkrötenpanzer",
@@ -904,7 +904,7 @@
   "filled_map.village_savanna": "Karte zu Verlassenem Savannendorf",
   "filled_map.village_snowy": "Karte zu Verlassenem Verschneitem Dorf",
   "filled_map.village_taiga": "Karte zu Verlassenem Taigadorf",
-  "filled_map.shipwreck": "Karte zu versunkenem Schiff",
+  "filled_map.shipwreck": "Karte zu Schiffswrack",
   "item.kleispack.silver_sword": "Silberschwert",
   "item.kleispack.warding_shield": "Silberschild",
   "log.kleispack.now_loaded": "🍵 Matcha Flavoured wurde geladen, Version ",
@@ -1122,5 +1122,6 @@
   "adv.kleispack.adventure.trade_with_cartographer": "Vergessene Gerüchte",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Kaufe eine Karte von einem Archäologen",
   "adv.kleispack.adventure.obtain_tanakh.desc": "Entweihe eine Abtei",
-  "filled_map.house_of_wisdom": "Karte zu Archiv"
+  "filled_map.house_of_wisdom": "Karte zu Archiv",
+  "filled_map.seminary": "Karte zu Theologischem Seminar"
 }

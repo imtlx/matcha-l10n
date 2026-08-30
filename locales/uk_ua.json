@@ -37,7 +37,7 @@
   "item.minecraft.smithing_template.netherite_upgrade.base_slot_description": "Додайте обладунки, зброю або інструмент",
   "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Будь-який сплав",
   "item.minecraft.netherite_upgrade_smithing_template.new": "Ковальський шаблон",
-  "container.upgrade.missing_template_tooltip": "Розмістіть ковальський шаблон або основний метал",
+  "container.upgrade.missing_template_tooltip": "Розмістіть ковальський шаблон або лишіть пустим",
   "item.minecraft.nether_star": "Божественна милість",
   "item.minecraft.turtle_scute": "Божественний уламок",
   "item.minecraft.turtle_helmet": "Черепашачий шолом",
