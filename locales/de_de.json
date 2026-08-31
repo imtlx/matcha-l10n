@@ -991,6 +991,10 @@
   "log.kleispack.wandering_trader.kill_early": "Der fahrende Händler hat dein Signalfeuer aus den Augen verloren....",
   "log.kleispack.wandering_trader.summoned": "Der fahrende Händler ist eingetroffen und wird in 5 Minuten weiterziehen",
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
+  "item.kleispack.amnestic.desc": "Sorgt dafür, dass ein Dorfbewohner vergisst, wer er ist",
+  "item.kleispack.amnestic.instructions": "Platziere auf dem Boden neben einem Dorfbewohner",
+  "desc.kleispack.melee_blocking": "%s%% Nahkampf-Blockierung",
+  "desc.kleispack.projectile_blocking": "%s%% Projektil-Blockierung",
   "item.minecraft.piglin_spawn_egg": "Melasse",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Öl",
@@ -1110,7 +1114,7 @@
   "adv.kleispack.anglers_almanac.sculk_vein.desc": "Ein merkwürdiges Gewächs aus dem Tiefen Dunkel, dass sich über Oberflächen wie eine lebendige Dunkelheit ausbreitet, ganz ohne Rücksicht auf persönlichen Freiraum.",
   "adv.kleispack.anglers_almanac.echo_shard.desc": "Eine mysteriöse Scherbe aus einer Antiken Stätte, welche Erinnerungen davon trägt, was sie einst war... und womöglich auch von einigen schlechten Entscheidungen.",
   "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
-  "adv.kleispack.anglers_almanac.estus_ash.desc": "Obwohl sie löslich zu sein scheint, fällt Estus-Asche mit der Zeit aus einer Lösung aus. Ohne Emulgatoren im Wasser bildet sich am Boden ein Aschesediment. Warum also ist dieses Sediment so dünn?",
+  "adv.kleispack.anglers_almanac.estus_ash.desc": "Obwohl sie löslich zu sein scheint, fällt Estus-Asche mit der Zeit aus einer Lösung aus. Ohne Emulgatoren im Wasser bildet sich am Boden ein Aschesediment. Warum also ist dieses Sediment so dünn? ",
   "adv.kleispack.anglers_almanac.sulfur_chunk.desc": "Ein Brocken, der entweder bedeutet, dass du in Stücke gesprengt, oder von einem Geysir nach oben geschossen wirst. Oder einen Schritt näher an der Herstellung von grünem Farbstoff bist. Nicht sicher.",
   "adv.kleispack.anglers_almanac.goat_horn.desc": "Da das Erste, das du beim Fischen brauchst, eine laute Möglichkeit ist, jedem mitzuteilen, dass du wieder einmal den falschen Fang gemacht hast.",
   "item.kleispack.cinnamon_ice_cream": "Zimteiscreme",
@@ -1121,7 +1125,8 @@
   "adv.kleispack.adventure.root": "Mit Gesang",
   "adv.kleispack.adventure.trade_with_cartographer": "Vergessene Gerüchte",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Kaufe eine Karte von einem Archäologen",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Entweihe eine Abtei",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Entweihe eine Abtei",
   "filled_map.house_of_wisdom": "Karte zu Archiv",
-  "filled_map.seminary": "Karte zu Theologischem Seminar"
+  "adv.kleispack.with_songs.kill_gaurdian": "Strophe 1",
+  "adv.kleispack.with_songs.raid_bastion": "Strophe 2"
 }

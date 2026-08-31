@@ -977,6 +977,6 @@
   "adv.kleispack.adventure.root": "With Songs",
   "adv.kleispack.adventure.trade_with_cartographer": "Forgotten Rumours",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Buy a Draft from an Archaeologist",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Unhallow a Minster",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Unhallow a Minster",
   "filled_map.house_of_wisdom": "Bookhoard Draft"
 }

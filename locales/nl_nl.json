@@ -985,7 +985,7 @@
   "adv.kleispack.adventure.root": "Met Muziek",
   "adv.kleispack.adventure.trade_with_cartographer": "Vergeten Geruchten",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Koop een Kaart van een Archeoloog",
-  "adv.kleispack.adventure.obtain_tanakh": "Heb jij hem gevonden?",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Verken de Abdij",
+  "adv.kleispack.with_songs.obtain_tanakh": "Heb jij hem gevonden?",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Verken de Abdij",
   "filled_map.house_of_wisdom": "Archief kaart"
 }

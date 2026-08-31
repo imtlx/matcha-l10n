@@ -993,8 +993,8 @@
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
   "item.kleispack.amnestic.desc": "Causes a villager to forget who they are",
   "item.kleispack.amnestic.instructions": "Place on the ground next to them",
-  "desc.kleispack.melee_blocking": "%s% Melee Blocking",
-  "desc.kleispack.projectile_blocking": "%s% Projectile Blocking",
+  "desc.kleispack.melee_blocking": "%s%% Melee Blocking",
+  "desc.kleispack.projectile_blocking": "%s%% Projectile Blocking",
   "item.minecraft.piglin_spawn_egg": "Molasses",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Oil",
@@ -1123,6 +1123,6 @@
   "adv.kleispack.adventure.root": "With Songs",
   "adv.kleispack.adventure.trade_with_cartographer": "Forgotten Rumours",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Buy a map from an Archaeologist",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Desecrate an Abbey",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Desecrate an Abbey",
   "filled_map.house_of_wisdom": "Archive Map"
 }

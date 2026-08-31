@@ -991,6 +991,10 @@
   "log.kleispack.wandering_trader.kill_early": "Странствующий торговец потерял из виду ваш маяк...",
   "log.kleispack.wandering_trader.summoned": "Странствующий торговец прибыл, он отправится через 5 минут",
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
+  "item.kleispack.amnestic.desc": "Заставляет жителя забыть, кто он",
+  "item.kleispack.amnestic.instructions": "Нажмите на землю рядом с ним",
+  "desc.kleispack.melee_blocking": "%s%% Блокировка атак ближнего боя",
+  "desc.kleispack.projectile_blocking": "%s%% Блокировка снарядов",
   "item.minecraft.piglin_spawn_egg": "Меласса",
   "item.minecraft.hoglin_spawn_egg": "Сейтан",
   "item.minecraft.happy_ghast_spawn_egg": "Масло",
@@ -1121,7 +1125,9 @@
   "adv.kleispack.adventure.root": "С Песнями",
   "adv.kleispack.adventure.trade_with_cartographer": "Место отмечено крестом",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Купите карту у археолога",
-  "adv.kleispack.adventure.obtain_tanakh": "Бога нет!",
-  "adv.kleispack.adventure.obtain_tanakh.desc": "Оскверните монастырь",
-  "filled_map.house_of_wisdom": "Карта архива"
+  "adv.kleispack.with_songs.obtain_tanakh": "Бога нет!",
+  "adv.kleispack.with_songs.obtain_tanakh.desc": "Оскверните монастырь",
+  "filled_map.house_of_wisdom": "Карта архива",
+  "adv.kleispack.with_songs.kill_gaurdian": "Строфа 1",
+  "adv.kleispack.with_songs.raid_bastion": "Строфа 2"
 }
