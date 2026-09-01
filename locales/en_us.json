@@ -1041,7 +1041,7 @@
   "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
-  "adv.kleispack.anglers_almanac.chance": "Chance",
+  "adv.kleispack.anglers_almanac.chance": "Chance %s",
   "adv.kleispack.anglers_almanac.only_in": "Only In",
   "adv.kleispack.anglers_almanac.humpback_whitefish.desc": "A chilly fish with a hump on its back and absolutely no plans to move somewhere warmer.",
   "adv.kleispack.anglers_almanac.alaska_blackfish.desc": "A tiny Alaskan survivor that treats freezing temperatures like a minor inconvenience.",
