@@ -1041,7 +1041,7 @@
   "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
-  "adv.kleispack.anglers_almanac.chance": "Шанс",
+  "adv.kleispack.anglers_almanac.chance": "Шанс %s",
   "adv.kleispack.anglers_almanac.only_in": "Тільки в",
   "adv.kleispack.anglers_almanac.humpback_whitefish.desc": "Холодолюбна риба з горбом на спині, яка категорично відмовляється переїжджати туди, де тепліше. Їй і тут нормально. Ну майже.",
   "adv.kleispack.anglers_almanac.alaska_blackfish.desc": "Крихітна аляскинська виживальниця, для якої лютий мороз не проблема, а просто черговий понеділок.",

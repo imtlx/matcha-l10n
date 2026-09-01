@@ -1041,7 +1041,7 @@
   "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
-  "adv.kleispack.anglers_almanac.chance": "Chance",
+  "adv.kleispack.anglers_almanac.chance": "Chance %s",
   "adv.kleispack.anglers_almanac.only_in": "Só Pode Ser Pescado Em:",
   "adv.kleispack.anglers_almanac.humpback_whitefish.desc": "Um peixe com uma péssima postura e sem plano nenhum de fazer hipertermoterapia.",
   "adv.kleispack.anglers_almanac.alaska_blackfish.desc": "Frio? Esse peixe nunca ouviu falar disso não.",
