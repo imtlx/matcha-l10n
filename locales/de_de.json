@@ -1041,7 +1041,7 @@
   "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
-  "adv.kleispack.anglers_almanac.chance": "Wahrscheinlichkeit",
+  "adv.kleispack.anglers_almanac.chance": "Wahrscheinlichkeit %s",
   "adv.kleispack.anglers_almanac.only_in": "Nur in",
   "adv.kleispack.anglers_almanac.humpback_whitefish.desc": "Ein kühler Fisch mit einem Buckel und nicht der geringsten Absicht, an einen wärmeren Ort umzuziehen.",
   "adv.kleispack.anglers_almanac.alaska_blackfish.desc": "Ein winziger Alaskanischer Überlebenskünstler, der Minustemperaturen als vernachlässigbar betrachtet.",
