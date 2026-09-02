@@ -823,7 +823,7 @@
   "adv.kleispack.obtain_obol.desc": "Obtén un Óbolo.",
   "adv.kleispack.obtain_opal": "Canto I",
   "adv.kleispack.obtain_opal.desc": "Derrota al Dios del Mar.",
-  "adv.kleispack.obtain_oven": "Ahora sí estamos cocinando",
+  "adv.kleispack.obtain_oven": "¡Ahora sí estamos cocinando!",
   "adv.kleispack.obtain_oven.desc": "Construye un horno con ladrillos y hierro.",
   "adv.kleispack.obtain_paneer_mahkani": "¡Dulce y picante!",
   "adv.kleispack.obtain_paneer_mahkani.desc": "Prepara un paneer makhani, todos los alimentos tienen opciones vegetarianas viables.",
@@ -993,6 +993,10 @@
   "log.kleispack.wandering_trader.kill_early": "El comerciante ambulante ha perdido de vista tus señales...",
   "log.kleispack.wandering_trader.summoned": "El comerciante ambulante ha llegado. Partirá en 5 minutos.",
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
+  "item.kleispack.amnestic.desc": "Causa que un aldeano olvide quién es",
+  "item.kleispack.amnestic.instructions": "Colócalo en el suelo junto al aldeano",
+  "desc.kleispack.melee_blocking": "%s%% Bloqueo de ataques cuerpo a cuerpo",
+  "desc.kleispack.projectile_blocking": "%s%% Bloqueo de proyectiles",
   "item.minecraft.piglin_spawn_egg": "Melaza",
   "item.minecraft.hoglin_spawn_egg": "Seitán",
   "item.minecraft.happy_ghast_spawn_egg": "Aceite",
@@ -1112,6 +1116,7 @@
   "adv.kleispack.anglers_almanac.sculk_vein.desc": "Una extraña formación de las Profundidades Oscuras que se extiende por las superficies como un parásito, sin ningún respeto por el espacio personal.",
   "adv.kleispack.anglers_almanac.echo_shard.desc": "Un misterioso fragmento de una Ciudad Antigua que conserva los recuerdos de lo que alguna vez fue... y probablemente varias malas decisiones.",
   "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
+  "adv.kleispack.anglers_almanac.estus_ash.desc": "La ceniza de estus parece disolverse en el agua, pero tarde o temprano acaba depositándose en el fondo. Sin nada que la mantenga suspendida, cabría esperar una capa mucho más gruesa. Entonces, ¿por qué queda tan poco sedimento?",
   "adv.kleispack.anglers_almanac.sulfur_chunk.desc": "Haber atrapado esto significa que vas a volar por los aires o volarás en pedazos. También puede que solo sirva para fabricar tinte verde. Quién sabe.",
   "adv.kleispack.anglers_almanac.goat_horn.desc": "Porque cuando vas a pescar, lo más importante es tener una manera ruidosa de hacerle saber a todos que atrapaste el pez equivocado otra vez",
   "item.kleispack.cinnamon_ice_cream": "Helado de canela",
@@ -1125,5 +1130,7 @@
   "adv.kleispack.with_songs.obtain_tanakh": "De santo, nada",
   "adv.kleispack.with_songs.obtain_tanakh.desc": "Profana un monasterio",
   "filled_map.house_of_wisdom": "Mapa de biblioteca arcaica",
-  "filled_map.seminary": "Mapa de academia"
+  "filled_map.seminary": "Mapa de academia",
+  "adv.kleispack.with_songs.kill_gaurdian": "Estrofa I",
+  "adv.kleispack.with_songs.raid_bastion": "Estrofa II"
 }
