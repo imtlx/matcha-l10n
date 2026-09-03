@@ -1014,6 +1014,8 @@
   "item.kleispack.pumpkin_curry": "Curry à la citrouille",
   "adv.kleispack.cook_pumpkin_curry": "Délice fortifié",
   "adv.kleispack.cook_pumpkin_curry.desc": "Préparez du curry à la citrouille",
+  "error.kleispack.wear_me": "ERREUR : Veuillez me porter pour la mise à jour",
+  "error.kleispack.hold_me": "ERREUR : Veuillez me tenir pour la mise à jour",
   "item.kleispack.hot_honey_wings": "Ailes de poulet au miel épicé",
   "adv.kleispack.anglers_almanac": "L'almanach du pêcheur",
   "adv.kleispack.anglers_almanac.desc": "Découvrez les poissons qui peuplent ce monde",

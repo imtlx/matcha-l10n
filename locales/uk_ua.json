@@ -1014,6 +1014,8 @@
   "item.kleispack.pumpkin_curry": "Гарбузове карі",
   "adv.kleispack.cook_pumpkin_curry": "Ходить Гарбуз по городу...",
   "adv.kleispack.cook_pumpkin_curry.desc": "Ой ти Гарбуз, ти Перистий, із чим Тебе будем їсти?\nМиску карі, молока - от і страва гопака!",
+  "error.kleispack.wear_me": "Помилка: Одягніть мене щоб оновити",
+  "error.kleispack.hold_me": "Помилка: Тримайте мене щоб оновити",
   "item.kleispack.hot_honey_wings": "Гострі медові крильця",
   "adv.kleispack.anglers_almanac": "Альманах рибалки",
   "adv.kleispack.anglers_almanac.desc": "Відкрийте для себе риб, які населяють цей світ",

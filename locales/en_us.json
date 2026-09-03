@@ -1014,6 +1014,8 @@
   "item.kleispack.pumpkin_curry": "Pumpkin Curry",
   "adv.kleispack.cook_pumpkin_curry": "Fortified Goodness",
   "adv.kleispack.cook_pumpkin_curry.desc": "Make Pumpkin Curry",
+  "error.kleispack.wear_me": "ERROR: Please wear me to update",
+  "error.kleispack.hold_me": "ERROR: Please hold me to update",
   "item.kleispack.hot_honey_wings": "Hot Honey Wings",
   "adv.kleispack.anglers_almanac": "Angler's Almanac",
   "adv.kleispack.anglers_almanac.desc": "Discover the fish that inhabit this world",

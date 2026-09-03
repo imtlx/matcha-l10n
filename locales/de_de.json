@@ -1014,6 +1014,8 @@
   "item.kleispack.pumpkin_curry": "Kürbis Curry",
   "adv.kleispack.cook_pumpkin_curry": "Stärkende Güte",
   "adv.kleispack.cook_pumpkin_curry.desc": "Koche Kürbis Curry",
+  "error.kleispack.wear_me": "FEHLER: Bitte trage mich, um zu aktualisieren",
+  "error.kleispack.hold_me": "FEHLER: Bitte halte mich, um zu aktualisieren",
   "item.kleispack.hot_honey_wings": "Hot Honey Wings",
   "adv.kleispack.anglers_almanac": "Fischer Almanach",
   "adv.kleispack.anglers_almanac.desc": "Entdecke die Fische, die unsere Welt bewohnen",
