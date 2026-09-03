@@ -1036,7 +1036,7 @@
   "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
-  "adv.kleispack.anglers_almanac.chance": "Olasılık",
+  "adv.kleispack.anglers_almanac.chance": "Olasılık: %s",
   "adv.kleispack.anglers_almanac.only_in": "Bulunduğu tek yer:",
   "adv.kleispack.anglers_almanac.humpback_whitefish.desc": "Daha ılık bir yere taşınmayı aklından geçirmeyen, hörgüçlü ve soğuk bir balık.",
   "adv.kleispack.anglers_almanac.alaska_blackfish.desc": "Dondurucu soğukların rahatsız bile edemediği Alaskalı bir şampiyon.",
