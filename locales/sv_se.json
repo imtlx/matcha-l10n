@@ -689,7 +689,7 @@
   "item.kleispack.tadpole": "Grodyngel",
   "item.kleispack.bedrock_buster": "Bedrockförstörare",
   "item.kleispack.warding_stone": "Skyddssten",
-  "item.kleispack.trade.bulk.desc": "Klicka på market för att lossa",
+  "item.kleispack.trade.bulk.desc": "Använd för att packa upp",
   "item.kleispack.trade.bulk_andesite": "Andesit i bulk",
   "item.kleispack.trade.bulk_andesite.desc": "x64 Andesit",
   "item.kleispack.trade.bulk_diorite": "Diorit i bulk",
@@ -1001,7 +1001,7 @@
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Olja",
   "item.kleispack.stego_chicken_nugget": "Stego kycklingnugget",
-  "item.kleispack.brachio_chicken_nugget": "Diplo kycklingnugget",
+  "item.kleispack.brachio_chicken_nugget": "Brachio kycklingnugget",
   "item.kleispack.ptero_chicken_nugget": "Ptero kycklingnugget",
   "item.kleispack.tricero_chicken_nugget": "Tricero kycklingnugget",
   "item.kleispack.nopales": "Nopales",
@@ -1014,6 +1014,8 @@
   "item.kleispack.pumpkin_curry": "Pumpacurry",
   "adv.kleispack.cook_pumpkin_curry": "Befäst godhet",
   "adv.kleispack.cook_pumpkin_curry.desc": "Laga pumpacurry till mat",
+  "error.kleispack.wear_me": "FEL: bär på big för att uppdatera",
+  "error.kleispack.hold_me": "FEL: håll mig för att uppdatera",
   "item.kleispack.hot_honey_wings": "Hot wings täckt i honung",
   "adv.kleispack.anglers_almanac": "Fiskarens almanacka",
   "adv.kleispack.anglers_almanac.desc": "Upptäck fiskarna i denna värld",
@@ -1089,6 +1091,6 @@
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Köp en karta från en arkeologist",
   "adv.kleispack.with_songs.obtain_tanakh.desc": "Vanhelga ett kloster",
   "filled_map.house_of_wisdom": "Akrivera karta",
-  "adv.kleispack.with_songs.kill_gaurdian": "Stanza I",
-  "adv.kleispack.with_songs.raid_bastion": "Stanza II"
+  "adv.kleispack.with_songs.kill_gaurdian": "Strof I",
+  "adv.kleispack.with_songs.raid_bastion": "Strof II"
 }
