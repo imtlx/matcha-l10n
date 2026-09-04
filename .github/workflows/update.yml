@@ -30,7 +30,9 @@ jobs:
               run: pip install -r requirements.txt
 
             - name: Generate translations
-              run: python csv_to_json.py
+              run: |
+                  rm -rf locales
+                  python csv_to_json.py
 
             - name: Commit and push changes
               run: |
