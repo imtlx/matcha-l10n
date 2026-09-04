@@ -993,6 +993,8 @@
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
   "item.kleispack.amnestic.desc": "Bir köylüye kim olduğunu unutturur",
   "item.kleispack.amnestic.instructions": "Köylünün yanına, yere koyun",
+  "desc.kleispack.melee_blocking": "%%%s Yakın Saldırıdan Koruma",
+  "desc.kleispack.projectile_blocking": "%%%s Uzun Menzilli Saldırıdan Koruma",
   "item.minecraft.piglin_spawn_egg": "Pekmez",
   "item.minecraft.hoglin_spawn_egg": "Seitan",
   "item.minecraft.happy_ghast_spawn_egg": "Yağ",
