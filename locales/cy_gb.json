@@ -605,7 +605,7 @@
   "log.kleispack.easy": "Hawdd",
   "log.kleispack.normal": "Arferol",
   "log.kleispack.hard": "Anodd",
-  "desc.kleispack.throwable": "💥",
+  "desc.kleispack.throwable": "⚗",
   "effect.kleispack.regeneration": "❤ Adfywio (%s)",
   "effect.kleispack.regeneration_2": "❤ Adfywio II (%s)",
   "effect.kleispack.resistance": "🛡 Gwrthsafiad (%s)",
@@ -656,7 +656,6 @@
   "adv.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.fishing.rarity.4": "§d⭐⭐⭐⭐",
-  "adv.kleispack.anglers_almanac.angler_pottery_sherd.desc": "",
   "item.kleispack.curry_ice_cream": "",
   "item.kleispack.chocolate_ice_cream": "",
   "item.kleispack.sweet_berry_ice_cream": ""
