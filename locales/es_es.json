@@ -1035,6 +1035,7 @@
   "desc.kleispack.armour_toughness": " %s",
   "desc.kleispack.speed_attribute": " %s",
   "desc.kleispack.fall_height_attribute": " %s",
+  "desc.kleispack.knockback_resistance": " %s",
   "item.kleispack.hot_honey_wings": "Alitas picantes",
   "adv.kleispack.anglers_almanac": "Almanaque del pescador",
   "adv.kleispack.anglers_almanac.desc": "Descubre los peces que habitan este mundo",
