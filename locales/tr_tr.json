@@ -930,7 +930,7 @@
   "log.kleispack.minimum_heart_decreased": "Kalp alt sınırı artık %s",
   "desc.kleispack.repaired_with": "Tamir materyali:",
   "desc.kleispack.throwable": "⚗",
-  "desc.kleispack.entity_interaction_range": " %s",
+  "desc.kleispack.entity_interaction_range": " %s",
   "effect.kleispack.regeneration": "❤ Yenilenme (%s)",
   "effect.kleispack.regeneration_2": "❤ Yenilenme II (%s)",
   "effect.kleispack.resistance": "🛡 Direniş (%s)",
