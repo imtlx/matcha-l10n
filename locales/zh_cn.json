@@ -625,6 +625,7 @@
   "enchantment.kleispack.shakudo_armour.set_bonus": "  ❣  -（00:04）",
   "enchantment.kleispack.shakudo_elytra": "  ❤ （00:10）",
   "enchantment.kleispack.zephyr": "扶摇",
+  "enchantment.kleispack.adamant_tool": "",
   "item.kleispack.blessing": "祝福",
   "item.kleispack.blessing.demeter": "德墨忒尔祷文",
   "item.kleispack.blessing.midas": "米达斯祷文",
@@ -1141,5 +1142,7 @@
   "adv.kleispack.adventure.trade_with_cartographer": "尘封的传闻",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "从考古学家处购买一张地图",
   "adv.kleispack.with_songs.obtain_tanakh.desc": "亵渎一座修道院",
-  "filled_map.house_of_wisdom": "档案馆地图"
+  "filled_map.house_of_wisdom": "档案馆地图",
+  "adv.kleispack.with_songs.kill_gaurdian": "第一节",
+  "adv.kleispack.with_songs.raid_bastion": "第二节"
 }
