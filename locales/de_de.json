@@ -1032,6 +1032,7 @@
   "desc.kleispack.speed_attribute": " %s",
   "desc.kleispack.fall_height_attribute": " %s",
   "desc.kleispack.knockback_resistance": " %s",
+  "desc.kleispack.step_height": " %s",
   "enchantment.kleispack.adamant_armour": " 3",
   "enchantment.kleispack.adamant_armour.set_bonus": "   4",
   "enchantment.kleispack.adamant_weapon": "",
