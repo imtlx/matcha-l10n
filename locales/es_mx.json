@@ -1037,6 +1037,8 @@
   "enchantment.kleispack.adamant_armour.set_bonus": "   4",
   "enchantment.kleispack.adamant_weapon": "",
   "item.kleispack.fox_pelt": "Piel de zorro",
+  "item.kleispack.trade.bulk_dirt": "Tierra a granel",
+  "item.kleispack.trade.bulk_dirt.desc": "x64 Tierra",
   "item.kleispack.hot_honey_wings": "Alitas con miel picante",
   "adv.kleispack.anglers_almanac": "Almanaque del pescador",
   "adv.kleispack.anglers_almanac.desc": "Descubre los peces que habitan este mundo",

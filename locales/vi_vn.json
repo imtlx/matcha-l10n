@@ -1033,6 +1033,8 @@
   "enchantment.kleispack.adamant_armour.set_bonus": "   4",
   "enchantment.kleispack.adamant_weapon": "",
   "item.kleispack.fox_pelt": "Da sói",
+  "item.kleispack.trade.bulk_dirt": "Đất số lượng lớn",
+  "item.kleispack.trade.bulk_dirt.desc": "x64 Đất",
   "item.kleispack.hot_honey_wings": "Cánh gà mật ong cay",
   "adv.kleispack.anglers_almanac": "Cẩm nang Cần Thủ",
   "adv.kleispack.anglers_almanac.desc": "Khám phá các loài cá ở trên thế giới này",
