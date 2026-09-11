@@ -1035,6 +1035,7 @@
   "enchantment.kleispack.adamant_armour.set_bonus": "   4",
   "enchantment.kleispack.adamant_weapon": "",
   "item.kleispack.fox_pelt": "Tilki Postu",
+  "desc.kleispack.knockback_attribute": " %s",
   "item.kleispack.hot_honey_wings": "Acılı Ballı Kanat",
   "adv.kleispack.anglers_almanac": "Balıkçı El Kitabı",
   "adv.kleispack.anglers_almanac.desc": "Dünyayı sarmış balıkları keşfet",

@@ -1036,6 +1036,7 @@
   "enchantment.kleispack.adamant_armour.set_bonus": "   4",
   "enchantment.kleispack.adamant_weapon": "",
   "item.kleispack.fox_pelt": "狐皮",
+  "desc.kleispack.knockback_attribute": " %s",
   "item.kleispack.hot_honey_wings": "香辣蜂蜜鸡翅",
   "adv.kleispack.anglers_almanac": "垂钓者年鉴",
   "adv.kleispack.anglers_almanac.desc": "发现全世界栖息的鱼类",

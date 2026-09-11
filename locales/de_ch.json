@@ -1039,6 +1039,7 @@
   "item.kleispack.fox_pelt": "Fuchsfell",
   "item.kleispack.trade.bulk_dirt": "Gehäufti Erde",
   "item.kleispack.trade.bulk_dirt.desc": "x64 Erde",
+  "desc.kleispack.knockback_attribute": " %s",
   "item.kleispack.hot_honey_wings": "Hot Honey Wings",
   "adv.kleispack.anglers_almanac": "Fischer-Almanach",
   "adv.kleispack.anglers_almanac.desc": "Entdeck d Fisch, die unseri Welt bewohne",
