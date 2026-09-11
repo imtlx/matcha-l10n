@@ -965,7 +965,7 @@
   "effect.kleispack.mining_fatigue": " Fatigue de minage (%s)",
   "effect.kleispack.nausea": " Nausée (%s)",
   "effect.kleispack.slow_falling": " Chute ralentie (%s)",
-  "effect.kleispack.warping": "🌀 Téléportation",
+  "effect.kleispack.warping": " Téléportation",
   "item.kleispack.warding_sword": "Épée apotropaïque",
   "item.kleispack.asylum_seeker": "Demandeur d'asile",
   "item.kleispack.asylum_seeker.desc": "Cliquez sur le sol pour l'invoquer.",

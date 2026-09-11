@@ -965,7 +965,7 @@
   "effect.kleispack.mining_fatigue": " Утомление (%s)",
   "effect.kleispack.nausea": " Тошнота (%s)",
   "effect.kleispack.slow_falling": " Плавное падение (%s)",
-  "effect.kleispack.warping": "🌀 Искажение",
+  "effect.kleispack.warping": " Искажение",
   "item.kleispack.warding_sword": "Оберегающий меч",
   "item.kleispack.asylum_seeker": "Беженец",
   "item.kleispack.asylum_seeker.desc": "Нажмите на землю, чтобы призвать",

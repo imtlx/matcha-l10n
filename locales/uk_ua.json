@@ -965,7 +965,7 @@
   "effect.kleispack.mining_fatigue": " Утома (%s)",
   "effect.kleispack.nausea": " Нудота (%s)",
   "effect.kleispack.slow_falling": " Повільне падіння (%s)",
-  "effect.kleispack.warping": "🌀 Викривлення",
+  "effect.kleispack.warping": " Викривлення",
   "item.kleispack.warding_sword": "Меч-оберіг",
   "item.kleispack.asylum_seeker": "Прохання про притулок",
   "item.kleispack.asylum_seeker.desc": "Клацніть ПКМ по землі, щоб закликати",
