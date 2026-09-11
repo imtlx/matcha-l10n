@@ -1042,6 +1042,7 @@
   "item.kleispack.amethyst_earrings": "Amethyst Earrings",
   "item.kleispack.lapis_earrings": "Lapis Earrings",
   "item.kleispack.nazar_circlet": "Nazar Circlet",
+  "desc.kleispack.knockback_attribute": " %s",
   "item.kleispack.hot_honey_wings": "Hot Honey Wings",
   "adv.kleispack.anglers_almanac": "Angler's Almanac",
   "adv.kleispack.anglers_almanac.desc": "Discover the fish that inhabit this world",
