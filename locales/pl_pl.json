@@ -837,6 +837,7 @@
   "enchantment.kleispack.adamant_armour": " 3",
   "enchantment.kleispack.adamant_armour.set_bonus": "   4",
   "enchantment.kleispack.adamant_weapon": "",
+  "desc.kleispack.knockback_attribute": " %s",
   "item.kleispack.hot_honey_wings": "Skrzydełka w ostrym miodzie",
   "adv.kleispack.fishing.rarity.1": "§7⭐§8☆☆☆",
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",

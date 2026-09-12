@@ -986,6 +986,7 @@
   "item.kleispack.ptero_chicken_nugget": "chiickn but wingz dino",
   "item.kleispack.tricero_chicken_nugget": "chickn bur rino dino",
   "item.kleispack.nopales": "spiky plant but food?",
+  "desc.kleispack.knockback_attribute": " %s",
   "adv.kleispack.anglers_almanac.category.freshwater.cold": "Ice drinkwota",
   "adv.kleispack.anglers_almanac.category.freshwater.cool": "a bit cold drinkwota",
   "adv.kleispack.anglers_almanac.category.freshwater.temperate": "normal drinkwota",
