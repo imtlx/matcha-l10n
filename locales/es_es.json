@@ -1044,6 +1044,8 @@
   "item.kleispack.lapis_earrings": "Pendientes de lapislázuli",
   "item.kleispack.nazar_circlet": "Diadema de nazar",
   "desc.kleispack.knockback_attribute": " %s",
+  "effect.kleispack.speed": " +20%% (%s)",
+  "effect.kleispack.speed_2": " +40%% (%s)",
   "item.kleispack.hot_honey_wings": "Alitas picantes",
   "adv.kleispack.anglers_almanac": "Almanaque del pescador",
   "adv.kleispack.anglers_almanac.desc": "Descubre los peces que habitan este mundo",
