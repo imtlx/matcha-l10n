@@ -1046,6 +1046,7 @@
   "desc.kleispack.knockback_attribute": " %s",
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
+  "error.kleispack.wither_spawn_invalid": "O Wither só pode ser invocado na Superfície",
   "item.kleispack.hot_honey_wings": "Asas de Mel Queimado",
   "adv.kleispack.anglers_almanac": "Almanaque do Pescador",
   "adv.kleispack.anglers_almanac.desc": "Descubra os variados tipos de Peixe que habitam esse mundo!",
