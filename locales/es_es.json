@@ -1046,6 +1046,7 @@
   "desc.kleispack.knockback_attribute": " %s",
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
+  "error.kleispack.wither_spawn_invalid": "El Wither solo puede ser invocado en el mundo superior",
   "item.kleispack.hot_honey_wings": "Alitas picantes",
   "adv.kleispack.anglers_almanac": "Almanaque del pescador",
   "adv.kleispack.anglers_almanac.desc": "Descubre los peces que habitan este mundo",
