@@ -1047,7 +1047,7 @@
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
   "error.kleispack.wither_spawn_invalid": "The Wither can only be summoned on the surface of the overworld",
-  "item.kleispack.raw_diamond": "Raw Diamond",
+  "item.minecraft.vindicator_spawn_egg": "Raw Diamond",
   "adv.kleispack.anglers_almanac": "Angler's Almanac",
   "adv.kleispack.anglers_almanac.desc": "Discover the fish that inhabit this world",
   "adv.kleispack.anglers_almanac.catch_fish": "What a catch!",

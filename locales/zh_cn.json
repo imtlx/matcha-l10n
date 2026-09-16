@@ -1046,7 +1046,7 @@
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
   "error.kleispack.wither_spawn_invalid": "凋灵只能在主世界地表召唤",
-  "item.kleispack.raw_diamond": "生钻",
+  "item.minecraft.vindicator_spawn_egg": "生钻",
   "adv.kleispack.anglers_almanac": "垂钓者年鉴",
   "adv.kleispack.anglers_almanac.desc": "发现全世界栖息的鱼类",
   "adv.kleispack.anglers_almanac.catch_fish": "上钩了！",

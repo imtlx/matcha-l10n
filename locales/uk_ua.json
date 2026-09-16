@@ -1047,6 +1047,7 @@
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
   "error.kleispack.wither_spawn_invalid": "Візера можна призвати лише на поверхні Верхнього світу.",
+  "item.minecraft.vindicator_spawn_egg": "Сирий діамант",
   "adv.kleispack.anglers_almanac": "Альманах рибалки",
   "adv.kleispack.anglers_almanac.desc": "Відкрийте для себе риб, які населяють цей світ",
   "adv.kleispack.anglers_almanac.catch_fish": "Оце улов!",

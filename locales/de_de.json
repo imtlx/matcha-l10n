@@ -1047,7 +1047,7 @@
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
   "error.kleispack.wither_spawn_invalid": "Der Wither kann nur auf der Oberfläche der Oberwelt beschworen werden",
-  "item.kleispack.raw_diamond": "Rohdiamant",
+  "item.minecraft.vindicator_spawn_egg": "Rohdiamant",
   "adv.kleispack.anglers_almanac": "Fischer-Almanach",
   "adv.kleispack.anglers_almanac.desc": "Entdecke die Fische, die unsere Welt bewohnen",
   "adv.kleispack.anglers_almanac.catch_fish": "Was für ein Fang!",

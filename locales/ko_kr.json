@@ -1042,7 +1042,7 @@
   "desc.kleispack.knockback_attribute": " %s",
   "effect.kleispack.speed": " +20%% (%s)",
   "effect.kleispack.speed_2": " +40%% (%s)",
-  "item.kleispack.raw_diamond": "다이아몬드 원석",
+  "item.minecraft.vindicator_spawn_egg": "다이아몬드 원석",
   "adv.kleispack.anglers_almanac": "낚시꾼의 낙서장",
   "adv.kleispack.anglers_almanac.desc": "이 세계에 서식하는 물고기들을 발견하세요",
   "adv.kleispack.anglers_almanac.category.freshwater.cold": "차가운 민물",
