@@ -41,8 +41,5 @@
   "item.minecraft.enchanted_book": "§cHelgebonde Boek",
   "item.minecraft.emerald": "Obool",
   "block.minecraft.shulker_box": "Sak",
-  "block.minecraft.white_shulker_box": "Wit Sak",
-  "item.kleispack.curry_ice_cream": "",
-  "item.kleispack.chocolate_ice_cream": "",
-  "item.kleispack.sweet_berry_ice_cream": ""
+  "block.minecraft.white_shulker_box": "Wit Sak"
 }
