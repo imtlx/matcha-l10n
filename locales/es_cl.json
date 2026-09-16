@@ -906,7 +906,7 @@
   "filled_map.shipwreck": "Mapa de naufragio",
   "item.kleispack.silver_sword": "Espada de plata",
   "item.kleispack.warding_shield": "Escudo apotropaico",
-  "log.kleispack.now_loaded": " Matcha Flavoured se ha cargado, versión %s",
+  "log.kleispack.now_loaded": " Matcha Flavoured se ha cargado en la versión %s",
   "log.kleispack.now_loaded.desc": "Cuando no sepas cómo continuar, revisa el menú de Progresos",
   "log.kleispack.gamemode_is": "La dificultad actual es",
   "log.kleispack.easy": "Fácil",
