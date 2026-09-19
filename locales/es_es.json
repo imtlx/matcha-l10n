@@ -1189,5 +1189,7 @@
   "subtitles.entity.wandering_trader.no": "Comerciante ambulante rechaza",
   "subtitles.entity.wandering_trader.reappeared": "Comerciante ambulante aparece",
   "subtitles.entity.wandering_trader.trade": "Comerciante ambulante comercia",
-  "subtitles.entity.wandering_trader.yes": "Comerciante ambulante acepta"
+  "subtitles.entity.wandering_trader.yes": "Comerciante ambulante acepta",
+  "subtitles.item.bucket.fill_fish": "Pez recogido",
+  "subtitles.item.bucket.fill_tadpole": "Renacuajo recogido"
 }
