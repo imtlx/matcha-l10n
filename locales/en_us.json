@@ -1192,6 +1192,8 @@
   "desc.kleispack.chicken_type.normal": "Mundane",
   "desc.kleispack.chicken_type.nest_maker": "Home-builder",
   "item.kleispack.mushroom_soup": "Clear Mushroom Soup",
+  "adv.kleispack.hell.wither_breaks_heart": "Heartbreaker",
+  "adv.kleispack.hell.wither_breaks_heart.desc": "Fail to clear the Wither effect before time runs out",
   "item.kleispack.hot_honey_wings": "Hot Honey Wings",
   "item.kleispack.sweet_berry_oatmeal": "Sweet Berry Oatmeal",
   "adv.kleispack.adventure.root": "With Songs",
