@@ -1194,6 +1194,8 @@
   "item.kleispack.mushroom_soup": "Canh nấm",
   "adv.kleispack.hell.wither_breaks_heart": "Trái tim vỡ vụn",
   "adv.kleispack.hell.wither_breaks_heart.desc": "Không giải trừ được hiệu ứng Khô héo trước khi quá trễ",
+  "effect.kleispack.jump_boost_2": " Nhảy cao II (%s)",
+  "effect.kleispack.jump_boost_3": " Nhảy cao III (%s)",
   "item.kleispack.hot_honey_wings": "Cánh gà mật ong cay",
   "item.kleispack.cinnamon_ice_cream": "Kem quế",
   "item.kleispack.curry_ice_cream": "Kem cà ri",

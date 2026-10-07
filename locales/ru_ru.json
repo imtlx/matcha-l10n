@@ -1192,6 +1192,8 @@
   "desc.kleispack.chicken_type.normal": "Обыватель",
   "desc.kleispack.chicken_type.nest_maker": "Застройщик",
   "item.kleispack.mushroom_soup": "Прозрачный грибной суп",
+  "adv.kleispack.hell.wither_breaks_heart": "Разбитые сердца",
+  "adv.kleispack.hell.wither_breaks_heart.desc": "Вам не удалось вовремя снять эффект Иссушения",
   "item.kleispack.hot_honey_wings": "Острые медовые крылышки",
   "item.kleispack.cinnamon_ice_cream": "Мороженое с корицей",
   "item.kleispack.curry_ice_cream": "Мороженое с карри",
