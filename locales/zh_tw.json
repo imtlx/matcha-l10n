@@ -1191,6 +1191,8 @@
   "desc.kleispack.chicken_type.mama": "可靠的",
   "desc.kleispack.chicken_type.normal": "平凡的",
   "desc.kleispack.chicken_type.nest_maker": "體貼的",
+  "effect.kleispack.jump_boost_2": " 跳躍提升 II (%s)",
+  "effect.kleispack.jump_boost_3": " 跳躍提升 II (%s)",
   "item.kleispack.hot_honey_wings": "辣蜂蜜雞翅",
   "item.kleispack.cinnamon_ice_cream": "肉桂霜淇淋",
   "item.kleispack.curry_ice_cream": "咖哩霜淇淋",
