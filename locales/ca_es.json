@@ -21,6 +21,8 @@
   "block.minecraft.smoker": "Forn de fang",
   "container.inventory": "",
   "container.crafting": "",
+  "container.furnace": "Forn",
+  "container.smoker": "Forn de fang",
   "container.cartography_table": "",
   "container.upgrade": "",
   "container.shulkerBox": "Sac",

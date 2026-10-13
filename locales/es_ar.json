@@ -1216,6 +1216,7 @@
   "adv.kleispack.with_songs.kill_gaurdian": "Estrofa I",
   "adv.kleispack.with_songs.raid_bastion": "Estrofa II",
   "block.minecraft.cracked_polished_blackstone_bricks": "Ladrillos de piedra negra pulida quebrados",
+  "item.minecraft.smithing_template.armor_trim.additions_slot_description": "Agregá una plantilla de color de diseño de armadura",
   "subtitles.item.bucket.fill_fish": "Pez recogido",
   "subtitles.item.bucket.fill_tadpole": "Renacuajo recogido"
 }
