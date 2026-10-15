@@ -27,7 +27,7 @@
   "container.furnace": "Horno",
   "container.smoker": "Horno de adobe",
   "block.minecraft.brewing_stand": "Tetera",
-  "container.brewing": "§0Tetera",
+  "container.brewing": "",
   "item.minecraft.brewing_stand": "Tetera",
   "container.cartography_table": "",
   "container.upgrade": "",
