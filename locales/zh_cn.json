@@ -990,7 +990,7 @@
   "log.kleispack.wandering_trader.initialise": "一位流浪商人已经发现了你的烽火，他会在 10 分钟后到达",
   "log.kleispack.wandering_trader.beacon_placed": "你已经呼唤了一名流浪商人，在他到来之前耐心等待吧",
   "log.kleispack.wandering_trader.kill": "流浪商人已离开",
-  "log.kleispack.wandering_trader.kill_early": "流浪商人跟丢了你的信标...",
+  "log.kleispack.wandering_trader.kill_early": "流浪商人跟丢了你的烽火...",
   "log.kleispack.wandering_trader.summoned": "流浪商人已到达，他会在 5 分钟后离开",
   "music.game.abbey": "Vee Vaicekauskas - Abbey",
   "item.kleispack.amnestic.desc": "让村民忘记它们是谁",
