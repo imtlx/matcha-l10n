@@ -53,7 +53,6 @@
   "block.minecraft.deepslate_copper_ore": "Native Deepslate Copper",
   "block.minecraft.nether_gold_ore": "Gilded Hellstone",
   "block.minecraft.nether_quartz_ore": "Sulphurous Hellstone",
-  "block.minecraft.redstone_ore": "Sulphurous Quartz Deposit",
   "block.minecraft.deepslate_redstone_ore": "Sulphur Deposit",
   "block.minecraft.lapis_ore": "Quartz Deposit",
   "block.minecraft.deepslate_lapis_ore": "Natural Lapis Lazuli",
@@ -856,5 +855,6 @@
   "adv.kleispack.fishing.rarity.1": "§7⭐§8☆☆☆",
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.kleispack.fishing.rarity.3": "§b⭐⭐⭐§8☆",
-  "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐"
+  "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
+  "block.minecraft.redstone_ore": "Fossil"
 }

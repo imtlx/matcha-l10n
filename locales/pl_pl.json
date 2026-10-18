@@ -53,7 +53,6 @@
   "block.minecraft.deepslate_copper_ore": "Łupkowa miedź rodzima",
   "block.minecraft.nether_gold_ore": "Pozłacany piekielny kamień",
   "block.minecraft.nether_quartz_ore": "Siarkowy piekielny kamień",
-  "block.minecraft.redstone_ore": "Siarkowe złoże kwarcu",
   "block.minecraft.deepslate_redstone_ore": "Łupkowe złoże siarki",
   "block.minecraft.lapis_ore": "Złoże kwarcu",
   "block.minecraft.deepslate_lapis_ore": "Naturalny Lapiz Lazuli",
@@ -843,6 +842,7 @@
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.kleispack.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
+  "block.minecraft.redstone_ore": "Siarkowe złoże kwarcu",
   "item.kleispack.hot_honey_wings": "Skrzydełka w ostrym miodzie",
   "item.kleispack.cinnamon_ice_cream": "Lody cynamonowe",
   "item.kleispack.sweet_berry_oatmeal": "Owsianka ze słodkimi jagodami"

@@ -53,7 +53,6 @@
   "block.minecraft.deepslate_copper_ore": "Přírodní hlubinná měď",
   "block.minecraft.nether_gold_ore": "Zlatonosný pekelkámen",
   "block.minecraft.nether_quartz_ore": "Sirný pekelkámen",
-  "block.minecraft.redstone_ore": "Sirné ložisko křemene",
   "block.minecraft.deepslate_redstone_ore": "Sirné ložisko",
   "block.minecraft.lapis_ore": "Ložisko křemene",
   "block.minecraft.deepslate_lapis_ore": "Přírodní lazurit",
@@ -861,6 +860,7 @@
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.kleispack.fishing.rarity.3": "§b⭐⭐⭐§8☆",
   "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
+  "block.minecraft.redstone_ore": "Sirné ložisko křemene",
   "adv.kleispack.adventure.root": "S písněmi",
   "adv.kleispack.adventure.trade_with_cartographer": "Zapomenuté fámy",
   "adv.kleispack.adventure.trade_with_cartographer.desc": "Kup mapu od archeologa"

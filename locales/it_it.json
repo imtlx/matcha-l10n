@@ -53,7 +53,6 @@
   "block.minecraft.deepslate_copper_ore": "Rame Nativo in Ardesia Profonda",
   "block.minecraft.nether_gold_ore": "Pietra Infernale Dorata",
   "block.minecraft.nether_quartz_ore": "Pietra Infernale Sulfurea",
-  "block.minecraft.redstone_ore": "Deposito di Zolfo in Quarzo",
   "block.minecraft.deepslate_redstone_ore": "Deposito di Zolfo",
   "block.minecraft.lapis_ore": "Deposito di Quarzo",
   "block.minecraft.deepslate_lapis_ore": "Lapislazzuli Nativo",
@@ -849,5 +848,6 @@
   "adv.kleispack.fishing.rarity.1": "§7⭐§8☆☆☆",
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.kleispack.fishing.rarity.3": "§b⭐⭐⭐§8☆",
-  "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐"
+  "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
+  "block.minecraft.redstone_ore": "Deposito di Zolfo in Quarzo"
 }

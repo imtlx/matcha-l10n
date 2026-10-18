@@ -51,7 +51,6 @@
   "block.minecraft.deepslate_coal_ore": "Dyddodyn Glo Dwfnlech",
   "block.minecraft.nether_gold_ore": "Ufferngraig Euraid",
   "block.minecraft.nether_quartz_ore": "Ufferngraig Sylffyraidd",
-  "block.minecraft.redstone_ore": "Dyddodyn Cwarts Sylffyraidd",
   "block.minecraft.deepslate_redstone_ore": "Dyddodyn Sylffwr",
   "block.minecraft.lapis_ore": "Dyddodyn Cwarts",
   "block.minecraft.comparator": "Cymharydd Trydanol",
@@ -655,5 +654,6 @@
   "adv.kleispack.fishing.rarity.1": "§7⭐§8☆☆☆",
   "adv.kleispack.fishing.rarity.2": "§a⭐⭐§8☆☆",
   "adv.kleispack.fishing.rarity.3": "§b⭐⭐⭐§8☆",
-  "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐"
+  "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
+  "block.minecraft.redstone_ore": "Dyddodyn Cwarts Sylffyraidd"
 }
