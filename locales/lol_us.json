@@ -27,7 +27,7 @@
   "container.furnace": "HOT box",
   "container.smoker": "HOT mud box",
   "block.minecraft.brewing_stand": "potionz go brrrr",
-  "container.brewing": "§0potionz go brrrr",
+  "container.brewing": "",
   "item.minecraft.brewing_stand": "potionz go brrrr",
   "container.cartography_table": "",
   "container.upgrade": "",
