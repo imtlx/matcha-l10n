@@ -1290,7 +1290,7 @@
   "enchantment.kleispack.regeneration.desc": "Concede Regeneración periódica.",
   "enchantment.kleispack.riposte.desc": "Atacar te empuja hacia atrás.",
   "enchantment.kleispack.shakudo_weapon.desc": "Atacar mobs te cura.",
-  "enchantment.kleispack.slaughter.desc": "Aumenta el daño contra mobs de ganado y hace que se detengan.",
+  "enchantment.kleispack.slaughter.desc": "Aumenta el daño contra mobs de ganado y hace que no se muevan.",
   "enchantment.kleispack.traversal.desc": "Aumenta la velocidad de movimiento en caminos y superficies similares.",
   "enchantment.kleispack.electrum_armour.desc": "Ralentiza y daña a mobs no muertos cerca de tí.",
   "enchantment.kleispack.warding_1.desc": "Ralentiza y daña a mobs no muertos cerca de tí.",
