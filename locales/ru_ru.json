@@ -1303,6 +1303,8 @@
   "enchantment.kleispack.adamant_tool.desc": "Автоматически переплавляет выпавшие предметы.",
   "enchantment.kleispack.adamant_armour.desc": "Наносит урон мобам с эффектом слабости и снимает эффект.",
   "enchantment.kleispack.adamant_weapon.desc": "Наносит эффект слабости при атаке.",
+  "gui.experience.level": "",
+  "container.repair.cost": "",
   "item.kleispack.hot_honey_wings": "Острые медовые крылышки",
   "item.kleispack.cinnamon_ice_cream": "Мороженое с корицей",
   "item.kleispack.curry_ice_cream": "Мороженое с карри",

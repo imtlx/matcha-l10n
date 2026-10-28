@@ -1301,6 +1301,8 @@
   "enchantment.kleispack.adamant_tool.desc": "自动熔炼掉落物。",
   "enchantment.kleispack.adamant_armour.desc": "伤害周围带有虚弱效果的生物并移除虚弱效果。",
   "enchantment.kleispack.adamant_weapon.desc": "攻击生物时施加虚弱效果。",
+  "gui.experience.level": "",
+  "container.repair.cost": "",
   "item.kleispack.kombucha": "康普茶",
   "item.kleispack.sparkling_kombucha": "气泡康普茶",
   "item.kleispack.putrid_kombucha": "腐坏康普茶",

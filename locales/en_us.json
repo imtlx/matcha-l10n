@@ -1303,6 +1303,8 @@
   "enchantment.kleispack.adamant_tool.desc": "Automatically smelt dropped items.",
   "enchantment.kleispack.adamant_armour.desc": "Damages mobs with Weakness effect and cleanse it.",
   "enchantment.kleispack.adamant_weapon.desc": "Weaken mobs when you attack them.",
+  "gui.experience.level": "",
+  "container.repair.cost": "",
   "item.kleispack.hot_honey_wings": "Hot Honey Wings",
   "item.kleispack.sweet_berry_oatmeal": "Sweet Berry Oatmeal",
   "adv.kleispack.adventure.root": "With Songs",

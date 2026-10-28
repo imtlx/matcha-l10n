@@ -1303,6 +1303,8 @@
   "enchantment.kleispack.adamant_tool.desc": "ドロップしたアイテムを自動で精錬する。",
   "enchantment.kleispack.adamant_armour.desc": "弱体化の効果を受けたMobにダメージを与え、その効果を浄化する。",
   "enchantment.kleispack.adamant_weapon.desc": "攻撃したMobを弱体化させる。",
+  "gui.experience.level": "",
+  "container.repair.cost": "",
   "item.kleispack.beoseot_cha": "キノコ茶",
   "item.kleispack.kombucha": "コンブチャ",
   "item.kleispack.sparkling_kombucha": "スパークリングコンブチャ",

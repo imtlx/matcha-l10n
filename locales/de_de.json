@@ -1303,6 +1303,8 @@
   "enchantment.kleispack.adamant_tool.desc": "Erhitzt abgebaute Items automatisch.",
   "enchantment.kleispack.adamant_armour.desc": "Entfernt Schwäche Effekt von Mobs und schadet ihnen dabei.",
   "enchantment.kleispack.adamant_weapon.desc": "Verursacht Schwäche Effekt beim Angreifen.",
+  "gui.experience.level": "",
+  "container.repair.cost": "",
   "item.kleispack.beoseot_cha": "Beoseot-cha",
   "item.kleispack.kombucha": "Kombucha",
   "item.kleispack.sparkling_kombucha": "Prickelnder Kombucha",

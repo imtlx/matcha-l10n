@@ -1156,6 +1156,8 @@
   "effect.kleispack.health_boost": " (%s)",
   "effect.kleispack.health_boost_2": " (%s)",
   "effect.kleispack.health_boost_3": " (%s)",
+  "gui.experience.level": "",
+  "container.repair.cost": "",
   "item.kleispack.hot_honey_wings": "Hot honeyed wings",
   "item.kleispack.cinnamon_ice_cream": "Snowed cream o' sweetspice",
   "item.kleispack.curry_ice_cream": "Snowed cream o' spice",

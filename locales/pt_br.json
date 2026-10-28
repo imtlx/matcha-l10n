@@ -1299,6 +1299,8 @@
   "enchantment.kleispack.warding_4.desc": "Desacelera e fere mortos vivos próximos.",
   "enchantment.kleispack.shakudo_armour.desc": "Concede Regeneração periodicamente.",
   "enchantment.kleispack.electrum_tool.desc": "Alguns blocos soltam mais itens do que o normal quando quebrados.",
+  "gui.experience.level": "",
+  "container.repair.cost": "",
   "item.kleispack.beer": "Cerveja",
   "item.kleispack.hot_honey_wings": "Asas de Mel Queimado",
   "item.kleispack.cinnamon_ice_cream": "Sorvete de Canela",
