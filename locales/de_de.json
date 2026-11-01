@@ -1306,6 +1306,8 @@
   "gui.experience.level": "",
   "container.repair.cost": "",
   "item.kleispack.gudi": "Gudi",
+  "item.kleispack.gudi.endless": "Endlos",
+  "item.kleispack.gudi.infinite_amethyst": "Unendlicher Amethyst",
   "item.kleispack.beoseot_cha": "Beoseot-cha",
   "item.kleispack.kombucha": "Kombucha",
   "item.kleispack.sparkling_kombucha": "Prickelnder Kombucha",
