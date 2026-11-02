@@ -587,13 +587,9 @@
   "item.kleispack.rose_classic": "Rhosyn",
   "item.kleispack.cyan_rose_classic": "Rhosyn Gwyrddlas",
   "item.kleispack.dandelion_classic": "Dant y Llew",
-  "adv.kleispack.obtain_amber": "Trydedd Gainc",
-  "adv.kleispack.obtain_opal": "Gainc Gyntaf",
   "adv.kleispack.obtain_oven": "Popty Ping",
   "adv.kleispack.obtain_oven.desc": "Crefftiwch Popty o Friciau a Haearn",
-  "adv.kleispack.obtain_ruby": "Ail Gainc",
   "adv.kleispack.obtain_smithing_table": "Gweithfan Gofannon",
-  "adv.kleispack.obtain_topaz": "Pedwaredd Gainc",
   "adv.kleispack.preserve_everything.desc": "Cyffeithiwch Bopeth!",
   "adv.kleispack.preserve_food": "Piclau & Jamiau",
   "adv.kleispack.preserve_food.desc": "Bydd cyffeithio bwyd yn atgyfnerthu ei flas",
@@ -657,5 +653,9 @@
   "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
   "block.minecraft.redstone_ore": "Dyddodyn Cwarts Sylffyraidd",
   "gui.experience.level": "",
-  "container.repair.cost": ""
+  "container.repair.cost": "",
+  "adv.kleispack.with_songs.obtain_apocrypha": "Gainc Gyntaf",
+  "adv.kleispack.with_songs.obtain_tanakh": "Ail Gainc",
+  "XXX": "Trydedd Gainc",
+  "adv.kleispack.obtain_topaz": "Pedwaredd Gainc"
 }

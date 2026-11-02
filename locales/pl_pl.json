@@ -687,7 +687,6 @@
   "adv.kleispack.obtain_japanese_curry.desc": "Zrób japońskie curry",
   "adv.kleispack.obtain_kiln": "Starożytna Technologia",
   "adv.kleispack.obtain_mattock": "Dwa w jednym",
-  "adv.kleispack.obtain_opal.desc": "Pokonaj Boga Morza",
   "adv.kleispack.obtain_oven": "Teraz Pichcisz",
   "adv.kleispack.obtain_paneer_mahkani": "Słodko-ostre!",
   "adv.kleispack.obtain_ramen": "Najlepsza zupa!",
@@ -839,6 +838,7 @@
   "adv.kleispack.fishing.rarity.4": "§d⭐⭐⭐⭐",
   "gui.experience.level": "",
   "container.repair.cost": "",
+  "adv.kleispack.with_songs.kill_gaurdian.desc": "Pokonaj Boga Morza",
   "item.kleispack.hot_honey_wings": "Skrzydełka w ostrym miodzie",
   "item.kleispack.cinnamon_ice_cream": "Lody cynamonowe",
   "item.kleispack.sweet_berry_oatmeal": "Owsianka ze słodkimi jagodami"
