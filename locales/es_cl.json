@@ -1272,7 +1272,7 @@
   "item.kleispack.putrid_chorus_daiquiri": "Daiquiri de chorus podrido",
   "error.kleispack.hard_too_early": "¡Ey! Te pondré en dificultad Normal",
   "error.kleispack.hard_too_early.subtitle": "Lee el chat para saber por qué",
-  "error.kleispack.hard_too_early.desc": "Difícil no está hecho para ser jugado durante el principio, pues está balanceado para jugadores demasiado poderosos. La dificultad cambiará a Dificil en cuanto estés preparado",
+  "error.kleispack.hard_too_early.desc": "Difícil no está pensado para ser jugado desde el comienzo, ya que está balanceado para desafiar a los jugadores poderosos. La dificultad cambiará a Dificil cuando hayas progresado lo suficiente",
   "enchantment.kleispack.anemos.desc": "Dispara cargas de viento al atacar.",
   "enchantment.kleispack.bloodrage.desc": "Concede Fuerza y Resistencia al tener poca salud.",
   "enchantment.kleispack.magic_protection.desc": "Reduce el daño por magia.",
