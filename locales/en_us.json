@@ -1332,6 +1332,7 @@
   "adv.kleispack.inspire_farmer.desc": "Inspire a Farmer to become a Stable Master",
   "adv.kleispack.with_songs.long_journey": "The Long Journey",
   "adv.kleispack.with_songs.long_journey.desc": "Travel %s meters on Horseback",
+  "desc.kleispack.use_effects_speed_multiplier": " %s",
   "item.kleispack.house_of_wisdom_map": "Archive Map",
   "adv.kleispack.craft_cross": "Rudimentary Apotropaics",
   "adv.kleispack.craft_cross.desc": "Holy objects will Slow and Burn nearby Undead. Equipment vital for Katabasis",
