@@ -918,5 +918,6 @@
   "adv.kleispack.with_songs.obtain_tanakh": "Canto II",
   "adv.kleispack.with_songs.kill_gaurdian.desc": "Defeat the Sea God",
   "XXX": "Canto III",
-  "adv.kleispack.obtain_topaz": "Canto IV"
+  "adv.kleispack.obtain_topaz": "Canto IV",
+  "item.minecraft.smithing_template.armor_trim.additions_slot_description": "Add a Smithing Trim Color"
 }
